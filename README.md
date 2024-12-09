@@ -1,0 +1,1 @@
+UniProtKB Q6P1W5 · CA094_HUMAN
