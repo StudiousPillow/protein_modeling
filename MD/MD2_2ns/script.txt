@@ -64,22 +64,22 @@ nohup gmx mdrun -v -deffnm md_0_1 -nb cpu > mdrun_simulation.log
 
 ## analysis
 
-gmx energy -f npt.edr -o md_potential.xvg
+gmx energy -f md_0_1.edr -o md_potential.xvg
 ## 10. Potential
 
-gmx energy -f npt.edr -o md_temperature.xvg
+gmx energy -f md_0_1.edr -o md_temperature.xvg
 ## 14 Temperature
 
-gmx energy -f npt.edr -o md_pressure.xvg
+gmx energy -f md_0_1.edr -o md_pressure.xvg
 ## 16 Pressure
 
-gmx energy -f npt.edr -o md_density.xvg
+gmx energy -f md_0_1.edr -o md_density.xvg
 ## 22 Density
 
-gmx energy -f npt.edr -o md_total_energy.xvg
+gmx energy -f md_0_1.edr -o md_total_energy.xvg
 ## 12 total energy
 
-gmx energy -f npt.edr -o md_kinetic_energy.xvg
+gmx energy -f md_0_1.edr -o md_kinetic_energy.xvg
 ## 11 Kinetic-En.
 
 #RMSD
