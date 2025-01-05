@@ -1,0 +1,101 @@
+pdbfixer pyrosetta_bestcomplex_min.pdb --output complex.pdb 
+
+martinize2 -f complex.pdb -x cg.pdb -o topol.top -ff martini3001
+## add the martini itp files to include in the topol.top
+
+gmx editconf -f cg.pdb -o box.gro -c -d 2.0 -bt dodecahedron
+## -> box.gro
+
+gmx solvate -cp box.gro -cs water.gro -p topol.top -o solv.gro 
+## add 
+#include "martini_v3.0.0.itp"
+#include "martini_v3.0.0_solvents_v1.itp"
+#include "martini_v3.0.0_ions_v1.itp"
+## at the beginning of topol.top
+
+gmx grompp -f ions.mdp -c solv.gro -p topol.top -o ions.tpr
+gmx genion -s ions.tpr -o solv_ions.gro -p topol.top -neutral
+## 13- wwater
+## -> mdout.mdp, ions.tpr
+
+gmx grompp -f em.mdp -c solv_ions.gro -p topol.top -o em.tpr
+gmx mdrun -v -deffnm em
+## quite long or not ?
+
+gmx grompp -f nvt.mdp -c em.gro -r em.gro -p topol.top -o nvt.tpr
+gmx mdrun -v -deffnm nvt
+
+## HERE waiting nvt
+
+gmx grompp -f npt.mdp -c nvt.gro -r nvt.gro -t nvt.cpt -p topol.top -o npt.tpr
+gmx mdrun -v -deffnm npt
+
+
+
+gmx grompp -f md.mdp -c npt.gro -t npt.cpt -p topol.top -o md_0_1.tpr
+nohup gmx mdrun -v -deffnm md_0_1 -nb cpu > mdrun_simulation.log
+
+gmx energy -f npt.edr -o min_potential.xvg
+## 10. Potential
+
+gmx energy -f npt.edr -o min_temperature.xvg
+## 14 Temperature
+
+gmx energy -f npt.edr -o min_pressure.xvg
+## 16 Pressure
+
+gmx energy -f npt.edr -o min_density.xvg
+## 22 Density
+
+gmx energy -f npt.edr -o min_total_energy.xvg
+## 12 total energy
+
+gmx energy -f npt.edr -o min_kinetic_energy.xvg
+## 11 Kinetic-En.
+
+######## here 
+
+## run MD
+gmx grompp -f md.mdp -c npt.gro -t npt.cpt -p topol.top -o md_0_1.tpr
+
+nohup gmx mdrun -v -deffnm md_0_1 -nb cpu > mdrun_simulation.log
+
+
+
+## analysis
+
+gmx energy -f npt.edr -o md_potential.xvg
+## 10. Potential
+
+gmx energy -f npt.edr -o md_temperature.xvg
+## 14 Temperature
+
+gmx energy -f npt.edr -o md_pressure.xvg
+## 16 Pressure
+
+gmx energy -f npt.edr -o md_density.xvg
+## 22 Density
+
+gmx energy -f npt.edr -o md_total_energy.xvg
+## 12 total energy
+
+gmx energy -f npt.edr -o md_kinetic_energy.xvg
+## 11 Kinetic-En.
+
+#RMSD
+gmx rms -s cg.pdb -f md_0_1.xtc -o rmsd.xvg -tu ns
+
+#RMSF
+gmx trjconv -s npt.tpr -f md_0_1.xtc -o md_0_1_wrapped.xtc
+gmx rmsf -s cg.pdb -f md_0_1_wrapped.xtc -o rmsf.xvg
+
+#Radius of gyration
+gmx gyrate -s cg.pdb -f md_0_1_wrapped.xtc -o rg.xvg
+
+# Hydrogen bonds
+gmx hbond -s cg.pdb -f md_0_1_wrapped.xtc -num hb.xvg
+
+## cross comparison RMSD
+gmx rms -s cg.pdb -f md_0_1.xtc -f2 ../MD2_2ns.2/md_0_1.xtc -o rmsd_cross.xvg
+
+## 
