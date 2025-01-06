@@ -1,0 +1,1578 @@
+REM  -------------------- Secondary structure summary -------------------  ~~~~
+REM                                                                        ~~~~
+CHN  md2_2ns.ss.pdb -                                                      ~~~~
+REM                                                                        ~~~~
+REM                .         .         .         .         .               ~~~~
+SEQ  1    ENSNDDKEKKSLSSSNGKEEQAKSNGGAGADEKNKGYGKTENSKGKWDRY   50          ~~~~
+STR       TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT               ~~~~
+REM                                                                        ~~~~
+REM                .         .         .         .         .               ~~~~
+SEQ  51   CTSSEDKAYYSFNSGADRMAKHSSATGPNNDEESTKKLLEQAVKTMQKLG  100          ~~~~
+STR       TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT               ~~~~
+REM                                                                        ~~~~
+REM                .         .         .         .         .               ~~~~
+SEQ  101  DIAYIAWATDLAWGAQGAGSVICLAANGLAIAIKTGDGHDAYDLPSVGGG  150          ~~~~
+STR       TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT               ~~~~
+REM                                                                        ~~~~
+REM                .         .         .         .         .               ~~~~
+SEQ  151  HDGDKESNPNIELAKILKIATVITSDTTVVGDQSIGADLEAQMEGTDSST  200          ~~~~
+STR       TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT               ~~~~
+REM                                                                        ~~~~
+REM                .         .         .         .         .               ~~~~
+SEQ  201  NAGNREGKEIAENNTKLSSESSDSGNKKSGCIAKVSDSTTALLYAFSAGG  250          ~~~~
+STR       TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT               ~~~~
+REM                                                                        ~~~~
+REM                .         .         .         .         .               ~~~~
+SEQ  251  ADMADDNAANADEEEKKKWRKTATKFRRIGADMEGYANSCLQPDKHSDNS  300          ~~~~
+STR       TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT               ~~~~
+REM                                                                        ~~~~
+REM                .         .         .         .         .               ~~~~
+SEQ  301  PDGTETDSGDRTNMLFTGFETASESAHDAAQYANKLLLKASTLQPISTST  350          ~~~~
+STR       TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT               ~~~~
+REM                                                                        ~~~~
+REM                .         .         .         .         .               ~~~~
+SEQ  351  SLIGALVLAYYSGLGGTLLLRKLASQSIQSFDEGIAESKGATASDIKAEE  400          ~~~~
+STR       TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT               ~~~~
+REM                                                                        ~~~~
+REM                .         .         .         .         .               ~~~~
+SEQ  401  VFQSSGGITGHLNGSNNAGTSAGGMGTKYGGGASAELVLGGEENTSACAA  450          ~~~~
+STR       TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT               ~~~~
+REM                                                                        ~~~~
+REM                .         .         .         .         .               ~~~~
+SEQ  451  AFALEEGAAGGLKAQAAICAKEAASPKAEATATGNAAKNDVLLMVGTLKL  500          ~~~~
+STR       TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT               ~~~~
+REM                                                                        ~~~~
+REM                .         .         .         .         .               ~~~~
+SEQ  501  ASTKGIGLIKASRGNMRGMTVAGGSGKDNSQEPKGTESTYRSSDKKKSTK  550          ~~~~
+STR       TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT               ~~~~
+REM                                                                        ~~~~
+REM                .         .         .         .         .               ~~~~
+SEQ  551  LGQETLDSDGMGSSDTDVLEDDANDERVLGGATQTEGYLQALTETRNAPE  600          ~~~~
+STR       TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT               ~~~~
+REM                                                                        ~~~~
+REM                .         .         .         .         .               ~~~~
+SEQ  601  GDKLATAAALGNIEEVRFLLTVEKVPAQALCHNGLSALMVADFRAAEVTK  650          ~~~~
+STR       TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT               ~~~~
+REM                                                                        ~~~~
+REM                .         .         .         .         .               ~~~~
+SEQ  651  LLLDHGADPNEATDQGINAAYLAAALGNAETMLVLISKGADITTPTSKGE  700          ~~~~
+STR       TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT               ~~~~
+REM                                                                        ~~~~
+REM                .         .         .         .         .               ~~~~
+SEQ  701  LPIMAAVLNGNKEVVEILTYGADLSQKGAEGLTPKQIAGKLGLEEVLKIL  750          ~~~~
+STR       TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT               ~~~~
+REM                                                                        ~~~~
+REM                                                                        ~~~~
+SEQ  751  KKAG                                                754          ~~~~
+STR       TTT                                                              ~~~~
+REM                                                                        ~~~~
+REM                                                                        ~~~~
+REM                                                                        ~~~~
+LOC  TurnIV       GLU     1 -      ASN      4 -                            ~~~~
+LOC  TurnIV       ASN     2 -      ASP      5 -                            ~~~~
+LOC  TurnIV       SER     3 -      ASP      6 -                            ~~~~
+LOC  TurnIV       ASN     4 -      LYS      7 -                            ~~~~
+LOC  TurnIV       ASP     5 -      GLU      8 -                            ~~~~
+LOC  TurnIV       ASP     6 -      LYS      9 -                            ~~~~
+LOC  TurnIV       LYS     7 -      LYS     10 -                            ~~~~
+LOC  TurnIV       GLU     8 -      SER     11 -                            ~~~~
+LOC  TurnIV       LYS     9 -      LEU     12 -                            ~~~~
+LOC  TurnIV       LYS    10 -      SER     13 -                            ~~~~
+LOC  TurnIV       SER    11 -      SER     14 -                            ~~~~
+LOC  TurnIV       LEU    12 -      SER     15 -                            ~~~~
+LOC  TurnIV       SER    13 -      ASN     16 -                            ~~~~
+LOC  TurnIV       SER    14 -      GLY     17 -                            ~~~~
+LOC  TurnIV       SER    15 -      LYS     18 -                            ~~~~
+LOC  TurnIV       ASN    16 -      GLU     19 -                            ~~~~
+LOC  TurnIV       GLY    17 -      GLU     20 -                            ~~~~
+LOC  TurnIV       LYS    18 -      GLN     21 -                            ~~~~
+LOC  TurnIV       GLU    19 -      ALA     22 -                            ~~~~
+LOC  TurnIV       GLU    20 -      LYS     23 -                            ~~~~
+LOC  TurnIV       GLN    21 -      SER     24 -                            ~~~~
+LOC  TurnIV       ALA    22 -      ASN     25 -                            ~~~~
+LOC  TurnIV       LYS    23 -      GLY     26 -                            ~~~~
+LOC  TurnIV       SER    24 -      GLY     27 -                            ~~~~
+LOC  TurnIV       ASN    25 -      ALA     28 -                            ~~~~
+LOC  TurnIV       GLY    26 -      GLY     29 -                            ~~~~
+LOC  TurnIV       GLY    27 -      ALA     30 -                            ~~~~
+LOC  TurnIV       ALA    28 -      ASP     31 -                            ~~~~
+LOC  TurnIV       GLY    29 -      GLU     32 -                            ~~~~
+LOC  TurnIV       ALA    30 -      LYS     33 -                            ~~~~
+LOC  TurnIV       ASP    31 -      ASN     34 -                            ~~~~
+LOC  TurnIV       GLU    32 -      LYS     35 -                            ~~~~
+LOC  TurnIV       LYS    33 -      GLY     36 -                            ~~~~
+LOC  TurnIV       ASN    34 -      TYR     37 -                            ~~~~
+LOC  TurnIV       LYS    35 -      GLY     38 -                            ~~~~
+LOC  TurnIV       GLY    36 -      LYS     39 -                            ~~~~
+LOC  TurnIV       TYR    37 -      THR     40 -                            ~~~~
+LOC  TurnIV       GLY    38 -      GLU     41 -                            ~~~~
+LOC  TurnIV       LYS    39 -      ASN     42 -                            ~~~~
+LOC  TurnIV       THR    40 -      SER     43 -                            ~~~~
+LOC  TurnIV       GLU    41 -      LYS     44 -                            ~~~~
+LOC  TurnIV       ASN    42 -      GLY     45 -                            ~~~~
+LOC  TurnIV       SER    43 -      LYS     46 -                            ~~~~
+LOC  TurnIV       LYS    44 -      TRP     47 -                            ~~~~
+LOC  TurnIV       GLY    45 -      ASP     48 -                            ~~~~
+LOC  TurnIV       LYS    46 -      ARG     49 -                            ~~~~
+LOC  TurnIV       TRP    47 -      TYR     50 -                            ~~~~
+LOC  TurnIV       ASP    48 -      CYS     51 -                            ~~~~
+LOC  TurnIV       ARG    49 -      THR     52 -                            ~~~~
+LOC  TurnIV       TYR    50 -      SER     53 -                            ~~~~
+LOC  TurnIV       CYS    51 -      SER     54 -                            ~~~~
+LOC  TurnIV       THR    52 -      GLU     55 -                            ~~~~
+LOC  TurnIV       SER    53 -      ASP     56 -                            ~~~~
+LOC  TurnIV       SER    54 -      LYS     57 -                            ~~~~
+LOC  TurnIV       GLU    55 -      ALA     58 -                            ~~~~
+LOC  TurnIV       ASP    56 -      TYR     59 -                            ~~~~
+LOC  TurnIV       LYS    57 -      TYR     60 -                            ~~~~
+LOC  TurnIV       ALA    58 -      SER     61 -                            ~~~~
+LOC  TurnIV       TYR    59 -      PHE     62 -                            ~~~~
+LOC  TurnIV       TYR    60 -      ASN     63 -                            ~~~~
+LOC  TurnIV       SER    61 -      SER     64 -                            ~~~~
+LOC  TurnIV       PHE    62 -      GLY     65 -                            ~~~~
+LOC  TurnIV       ASN    63 -      ALA     66 -                            ~~~~
+LOC  TurnIV       SER    64 -      ASP     67 -                            ~~~~
+LOC  TurnIV       GLY    65 -      ARG     68 -                            ~~~~
+LOC  TurnIV       ALA    66 -      MET     69 -                            ~~~~
+LOC  TurnIV       ASP    67 -      ALA     70 -                            ~~~~
+LOC  TurnIV       ARG    68 -      LYS     71 -                            ~~~~
+LOC  TurnIV       MET    69 -      HIS     72 -                            ~~~~
+LOC  TurnIV       ALA    70 -      SER     73 -                            ~~~~
+LOC  TurnIV       LYS    71 -      SER     74 -                            ~~~~
+LOC  TurnIV       HIS    72 -      ALA     75 -                            ~~~~
+LOC  TurnIV       SER    73 -      THR     76 -                            ~~~~
+LOC  TurnIV       SER    74 -      GLY     77 -                            ~~~~
+LOC  TurnIV       ALA    75 -      PRO     78 -                            ~~~~
+LOC  TurnIV       THR    76 -      ASN     79 -                            ~~~~
+LOC  TurnIV       GLY    77 -      ASN     80 -                            ~~~~
+LOC  TurnIV       PRO    78 -      ASP     81 -                            ~~~~
+LOC  TurnIV       ASN    79 -      GLU     82 -                            ~~~~
+LOC  TurnIV       ASN    80 -      GLU     83 -                            ~~~~
+LOC  TurnIV       ASP    81 -      SER     84 -                            ~~~~
+LOC  TurnIV       GLU    82 -      THR     85 -                            ~~~~
+LOC  TurnIV       GLU    83 -      LYS     86 -                            ~~~~
+LOC  TurnIV       SER    84 -      LYS     87 -                            ~~~~
+LOC  TurnIV       THR    85 -      LEU     88 -                            ~~~~
+LOC  TurnIV       LYS    86 -      LEU     89 -                            ~~~~
+LOC  TurnIV       LYS    87 -      GLU     90 -                            ~~~~
+LOC  TurnIV       LEU    88 -      GLN     91 -                            ~~~~
+LOC  TurnIV       LEU    89 -      ALA     92 -                            ~~~~
+LOC  TurnIV       GLU    90 -      VAL     93 -                            ~~~~
+LOC  TurnIV       GLN    91 -      LYS     94 -                            ~~~~
+LOC  TurnIV       ALA    92 -      THR     95 -                            ~~~~
+LOC  TurnIV       VAL    93 -      MET     96 -                            ~~~~
+LOC  TurnIV       LYS    94 -      GLN     97 -                            ~~~~
+LOC  TurnIV       THR    95 -      LYS     98 -                            ~~~~
+LOC  TurnIV       MET    96 -      LEU     99 -                            ~~~~
+LOC  TurnIV       GLN    97 -      GLY    100 -                            ~~~~
+LOC  TurnIV       LYS    98 -      ASP    101 -                            ~~~~
+LOC  TurnIV       LEU    99 -      ILE    102 -                            ~~~~
+LOC  TurnIV       GLY   100 -      ALA    103 -                            ~~~~
+LOC  TurnIV       ASP   101 -      TYR    104 -                            ~~~~
+LOC  TurnIV       ILE   102 -      ILE    105 -                            ~~~~
+LOC  TurnIV       ALA   103 -      ALA    106 -                            ~~~~
+LOC  TurnIV       TYR   104 -      TRP    107 -                            ~~~~
+LOC  TurnIV       ILE   105 -      ALA    108 -                            ~~~~
+LOC  TurnIV       ALA   106 -      THR    109 -                            ~~~~
+LOC  TurnIV       TRP   107 -      ASP    110 -                            ~~~~
+LOC  TurnIV       ALA   108 -      LEU    111 -                            ~~~~
+LOC  TurnIV       THR   109 -      ALA    112 -                            ~~~~
+LOC  TurnIV       ASP   110 -      TRP    113 -                            ~~~~
+LOC  TurnIV       LEU   111 -      GLY    114 -                            ~~~~
+LOC  TurnIV       ALA   112 -      ALA    115 -                            ~~~~
+LOC  TurnIV       TRP   113 -      GLN    116 -                            ~~~~
+LOC  TurnIV       GLY   114 -      GLY    117 -                            ~~~~
+LOC  TurnIV       ALA   115 -      ALA    118 -                            ~~~~
+LOC  TurnIV       GLN   116 -      GLY    119 -                            ~~~~
+LOC  TurnIV       GLY   117 -      SER    120 -                            ~~~~
+LOC  TurnIV       ALA   118 -      VAL    121 -                            ~~~~
+LOC  TurnIV       GLY   119 -      ILE    122 -                            ~~~~
+LOC  TurnIV       SER   120 -      CYS    123 -                            ~~~~
+LOC  TurnIV       VAL   121 -      LEU    124 -                            ~~~~
+LOC  TurnIV       ILE   122 -      ALA    125 -                            ~~~~
+LOC  TurnIV       CYS   123 -      ALA    126 -                            ~~~~
+LOC  TurnIV       LEU   124 -      ASN    127 -                            ~~~~
+LOC  TurnIV       ALA   125 -      GLY    128 -                            ~~~~
+LOC  TurnIV       ALA   126 -      LEU    129 -                            ~~~~
+LOC  TurnIV       ASN   127 -      ALA    130 -                            ~~~~
+LOC  TurnIV       GLY   128 -      ILE    131 -                            ~~~~
+LOC  TurnIV       LEU   129 -      ALA    132 -                            ~~~~
+LOC  TurnIV       ALA   130 -      ILE    133 -                            ~~~~
+LOC  TurnIV       ILE   131 -      LYS    134 -                            ~~~~
+LOC  TurnIV       ALA   132 -      THR    135 -                            ~~~~
+LOC  TurnIV       ILE   133 -      GLY    136 -                            ~~~~
+LOC  TurnIV       LYS   134 -      ASP    137 -                            ~~~~
+LOC  TurnIV       THR   135 -      GLY    138 -                            ~~~~
+LOC  TurnIV       GLY   136 -      HIS    139 -                            ~~~~
+LOC  TurnIV       ASP   137 -      ASP    140 -                            ~~~~
+LOC  TurnIV       GLY   138 -      ALA    141 -                            ~~~~
+LOC  TurnIV       HIS   139 -      TYR    142 -                            ~~~~
+LOC  TurnIV       ASP   140 -      ASP    143 -                            ~~~~
+LOC  TurnIV       ALA   141 -      LEU    144 -                            ~~~~
+LOC  TurnIV       TYR   142 -      PRO    145 -                            ~~~~
+LOC  TurnIV       ASP   143 -      SER    146 -                            ~~~~
+LOC  TurnIV       LEU   144 -      VAL    147 -                            ~~~~
+LOC  TurnIV       PRO   145 -      GLY    148 -                            ~~~~
+LOC  TurnIV       SER   146 -      GLY    149 -                            ~~~~
+LOC  TurnIV       VAL   147 -      GLY    150 -                            ~~~~
+LOC  TurnIV       GLY   148 -      HIS    151 -                            ~~~~
+LOC  TurnIV       GLY   149 -      ASP    152 -                            ~~~~
+LOC  TurnIV       GLY   150 -      GLY    153 -                            ~~~~
+LOC  TurnIV       HIS   151 -      ASP    154 -                            ~~~~
+LOC  TurnIV       ASP   152 -      LYS    155 -                            ~~~~
+LOC  TurnIV       GLY   153 -      GLU    156 -                            ~~~~
+LOC  TurnIV       ASP   154 -      SER    157 -                            ~~~~
+LOC  TurnIV       LYS   155 -      ASN    158 -                            ~~~~
+LOC  TurnIV       GLU   156 -      PRO    159 -                            ~~~~
+LOC  TurnIV       SER   157 -      ASN    160 -                            ~~~~
+LOC  TurnIV       ASN   158 -      ILE    161 -                            ~~~~
+LOC  TurnIV       PRO   159 -      GLU    162 -                            ~~~~
+LOC  TurnIV       ASN   160 -      LEU    163 -                            ~~~~
+LOC  TurnIV       ILE   161 -      ALA    164 -                            ~~~~
+LOC  TurnIV       GLU   162 -      LYS    165 -                            ~~~~
+LOC  TurnIV       LEU   163 -      ILE    166 -                            ~~~~
+LOC  TurnIV       ALA   164 -      LEU    167 -                            ~~~~
+LOC  TurnIV       LYS   165 -      LYS    168 -                            ~~~~
+LOC  TurnIV       ILE   166 -      ILE    169 -                            ~~~~
+LOC  TurnIV       LEU   167 -      ALA    170 -                            ~~~~
+LOC  TurnIV       LYS   168 -      THR    171 -                            ~~~~
+LOC  TurnIV       ILE   169 -      VAL    172 -                            ~~~~
+LOC  TurnIV       ALA   170 -      ILE    173 -                            ~~~~
+LOC  TurnIV       THR   171 -      THR    174 -                            ~~~~
+LOC  TurnIV       VAL   172 -      SER    175 -                            ~~~~
+LOC  TurnIV       ILE   173 -      ASP    176 -                            ~~~~
+LOC  TurnIV       THR   174 -      THR    177 -                            ~~~~
+LOC  TurnIV       SER   175 -      THR    178 -                            ~~~~
+LOC  TurnIV       ASP   176 -      VAL    179 -                            ~~~~
+LOC  TurnIV       THR   177 -      VAL    180 -                            ~~~~
+LOC  TurnIV       THR   178 -      GLY    181 -                            ~~~~
+LOC  TurnIV       VAL   179 -      ASP    182 -                            ~~~~
+LOC  TurnIV       VAL   180 -      GLN    183 -                            ~~~~
+LOC  TurnIV       GLY   181 -      SER    184 -                            ~~~~
+LOC  TurnIV       ASP   182 -      ILE    185 -                            ~~~~
+LOC  TurnIV       GLN   183 -      GLY    186 -                            ~~~~
+LOC  TurnIV       SER   184 -      ALA    187 -                            ~~~~
+LOC  TurnIV       ILE   185 -      ASP    188 -                            ~~~~
+LOC  TurnIV       GLY   186 -      LEU    189 -                            ~~~~
+LOC  TurnIV       ALA   187 -      GLU    190 -                            ~~~~
+LOC  TurnIV       ASP   188 -      ALA    191 -                            ~~~~
+LOC  TurnIV       LEU   189 -      GLN    192 -                            ~~~~
+LOC  TurnIV       GLU   190 -      MET    193 -                            ~~~~
+LOC  TurnIV       ALA   191 -      GLU    194 -                            ~~~~
+LOC  TurnIV       GLN   192 -      GLY    195 -                            ~~~~
+LOC  TurnIV       MET   193 -      THR    196 -                            ~~~~
+LOC  TurnIV       GLU   194 -      ASP    197 -                            ~~~~
+LOC  TurnIV       GLY   195 -      SER    198 -                            ~~~~
+LOC  TurnIV       THR   196 -      SER    199 -                            ~~~~
+LOC  TurnIV       ASP   197 -      THR    200 -                            ~~~~
+LOC  TurnIV       SER   198 -      ASN    201 -                            ~~~~
+LOC  TurnIV       SER   199 -      ALA    202 -                            ~~~~
+LOC  TurnIV       THR   200 -      GLY    203 -                            ~~~~
+LOC  TurnIV       ASN   201 -      ASN    204 -                            ~~~~
+LOC  TurnIV       ALA   202 -      ARG    205 -                            ~~~~
+LOC  TurnIV       GLY   203 -      GLU    206 -                            ~~~~
+LOC  TurnIV       ASN   204 -      GLY    207 -                            ~~~~
+LOC  TurnIV       ARG   205 -      LYS    208 -                            ~~~~
+LOC  TurnIV       GLU   206 -      GLU    209 -                            ~~~~
+LOC  TurnIV       GLY   207 -      ILE    210 -                            ~~~~
+LOC  TurnIV       LYS   208 -      ALA    211 -                            ~~~~
+LOC  TurnIV       GLU   209 -      GLU    212 -                            ~~~~
+LOC  TurnIV       ILE   210 -      ASN    213 -                            ~~~~
+LOC  TurnIV       ALA   211 -      ASN    214 -                            ~~~~
+LOC  TurnIV       GLU   212 -      THR    215 -                            ~~~~
+LOC  TurnIV       ASN   213 -      LYS    216 -                            ~~~~
+LOC  TurnIV       ASN   214 -      LEU    217 -                            ~~~~
+LOC  TurnIV       THR   215 -      SER    218 -                            ~~~~
+LOC  TurnIV       LYS   216 -      SER    219 -                            ~~~~
+LOC  TurnIV       LEU   217 -      GLU    220 -                            ~~~~
+LOC  TurnIV       SER   218 -      SER    221 -                            ~~~~
+LOC  TurnIV       SER   219 -      SER    222 -                            ~~~~
+LOC  TurnIV       GLU   220 -      ASP    223 -                            ~~~~
+LOC  TurnIV       SER   221 -      SER    224 -                            ~~~~
+LOC  TurnIV       SER   222 -      GLY    225 -                            ~~~~
+LOC  TurnIV       ASP   223 -      ASN    226 -                            ~~~~
+LOC  TurnIV       SER   224 -      LYS    227 -                            ~~~~
+LOC  TurnIV       GLY   225 -      LYS    228 -                            ~~~~
+LOC  TurnIV       ASN   226 -      SER    229 -                            ~~~~
+LOC  TurnIV       LYS   227 -      GLY    230 -                            ~~~~
+LOC  TurnIV       LYS   228 -      CYS    231 -                            ~~~~
+LOC  TurnIV       SER   229 -      ILE    232 -                            ~~~~
+LOC  TurnIV       GLY   230 -      ALA    233 -                            ~~~~
+LOC  TurnIV       CYS   231 -      LYS    234 -                            ~~~~
+LOC  TurnIV       ILE   232 -      VAL    235 -                            ~~~~
+LOC  TurnIV       ALA   233 -      SER    236 -                            ~~~~
+LOC  TurnIV       LYS   234 -      ASP    237 -                            ~~~~
+LOC  TurnIV       VAL   235 -      SER    238 -                            ~~~~
+LOC  TurnIV       SER   236 -      THR    239 -                            ~~~~
+LOC  TurnIV       ASP   237 -      THR    240 -                            ~~~~
+LOC  TurnIV       SER   238 -      ALA    241 -                            ~~~~
+LOC  TurnIV       THR   239 -      LEU    242 -                            ~~~~
+LOC  TurnIV       THR   240 -      LEU    243 -                            ~~~~
+LOC  TurnIV       ALA   241 -      TYR    244 -                            ~~~~
+LOC  TurnIV       LEU   242 -      ALA    245 -                            ~~~~
+LOC  TurnIV       LEU   243 -      PHE    246 -                            ~~~~
+LOC  TurnIV       TYR   244 -      SER    247 -                            ~~~~
+LOC  TurnIV       ALA   245 -      ALA    248 -                            ~~~~
+LOC  TurnIV       PHE   246 -      GLY    249 -                            ~~~~
+LOC  TurnIV       SER   247 -      GLY    250 -                            ~~~~
+LOC  TurnIV       ALA   248 -      ALA    251 -                            ~~~~
+LOC  TurnIV       GLY   249 -      ASP    252 -                            ~~~~
+LOC  TurnIV       GLY   250 -      MET    253 -                            ~~~~
+LOC  TurnIV       ALA   251 -      ALA    254 -                            ~~~~
+LOC  TurnIV       ASP   252 -      ASP    255 -                            ~~~~
+LOC  TurnIV       MET   253 -      ASP    256 -                            ~~~~
+LOC  TurnIV       ALA   254 -      ASN    257 -                            ~~~~
+LOC  TurnIV       ASP   255 -      ALA    258 -                            ~~~~
+LOC  TurnIV       ASP   256 -      ALA    259 -                            ~~~~
+LOC  TurnIV       ASN   257 -      ASN    260 -                            ~~~~
+LOC  TurnIV       ALA   258 -      ALA    261 -                            ~~~~
+LOC  TurnIV       ALA   259 -      ASP    262 -                            ~~~~
+LOC  TurnIV       ASN   260 -      GLU    263 -                            ~~~~
+LOC  TurnIV       ALA   261 -      GLU    264 -                            ~~~~
+LOC  TurnIV       ASP   262 -      GLU    265 -                            ~~~~
+LOC  TurnIV       GLU   263 -      LYS    266 -                            ~~~~
+LOC  TurnIV       GLU   264 -      LYS    267 -                            ~~~~
+LOC  TurnIV       GLU   265 -      LYS    268 -                            ~~~~
+LOC  TurnIV       LYS   266 -      TRP    269 -                            ~~~~
+LOC  TurnIV       LYS   267 -      ARG    270 -                            ~~~~
+LOC  TurnIV       LYS   268 -      LYS    271 -                            ~~~~
+LOC  TurnIV       TRP   269 -      THR    272 -                            ~~~~
+LOC  TurnIV       ARG   270 -      ALA    273 -                            ~~~~
+LOC  TurnIV       LYS   271 -      THR    274 -                            ~~~~
+LOC  TurnIV       THR   272 -      LYS    275 -                            ~~~~
+LOC  TurnIV       ALA   273 -      PHE    276 -                            ~~~~
+LOC  TurnIV       THR   274 -      ARG    277 -                            ~~~~
+LOC  TurnIV       LYS   275 -      ARG    278 -                            ~~~~
+LOC  TurnIV       PHE   276 -      ILE    279 -                            ~~~~
+LOC  TurnIV       ARG   277 -      GLY    280 -                            ~~~~
+LOC  TurnIV       ARG   278 -      ALA    281 -                            ~~~~
+LOC  TurnIV       ILE   279 -      ASP    282 -                            ~~~~
+LOC  TurnIV       GLY   280 -      MET    283 -                            ~~~~
+LOC  TurnIV       ALA   281 -      GLU    284 -                            ~~~~
+LOC  TurnIV       ASP   282 -      GLY    285 -                            ~~~~
+LOC  TurnIV       MET   283 -      TYR    286 -                            ~~~~
+LOC  TurnIV       GLU   284 -      ALA    287 -                            ~~~~
+LOC  TurnIV       GLY   285 -      ASN    288 -                            ~~~~
+LOC  TurnIV       TYR   286 -      SER    289 -                            ~~~~
+LOC  TurnIV       ALA   287 -      CYS    290 -                            ~~~~
+LOC  TurnIV       ASN   288 -      LEU    291 -                            ~~~~
+LOC  TurnIV       SER   289 -      GLN    292 -                            ~~~~
+LOC  TurnIV       CYS   290 -      PRO    293 -                            ~~~~
+LOC  TurnIV       LEU   291 -      ASP    294 -                            ~~~~
+LOC  TurnIV       GLN   292 -      LYS    295 -                            ~~~~
+LOC  TurnIV       PRO   293 -      HIS    296 -                            ~~~~
+LOC  TurnIV       ASP   294 -      SER    297 -                            ~~~~
+LOC  TurnIV       LYS   295 -      ASP    298 -                            ~~~~
+LOC  TurnIV       HIS   296 -      ASN    299 -                            ~~~~
+LOC  TurnIV       SER   297 -      SER    300 -                            ~~~~
+LOC  TurnIV       ASP   298 -      PRO    301 -                            ~~~~
+LOC  TurnIV       ASN   299 -      ASP    302 -                            ~~~~
+LOC  TurnIV       SER   300 -      GLY    303 -                            ~~~~
+LOC  TurnIV       PRO   301 -      THR    304 -                            ~~~~
+LOC  TurnIV       ASP   302 -      GLU    305 -                            ~~~~
+LOC  TurnIV       GLY   303 -      THR    306 -                            ~~~~
+LOC  TurnIV       THR   304 -      ASP    307 -                            ~~~~
+LOC  TurnIV       GLU   305 -      SER    308 -                            ~~~~
+LOC  TurnIV       THR   306 -      GLY    309 -                            ~~~~
+LOC  TurnIV       ASP   307 -      ASP    310 -                            ~~~~
+LOC  TurnIV       SER   308 -      ARG    311 -                            ~~~~
+LOC  TurnIV       GLY   309 -      THR    312 -                            ~~~~
+LOC  TurnIV       ASP   310 -      ASN    313 -                            ~~~~
+LOC  TurnIV       ARG   311 -      MET    314 -                            ~~~~
+LOC  TurnIV       THR   312 -      LEU    315 -                            ~~~~
+LOC  TurnIV       ASN   313 -      PHE    316 -                            ~~~~
+LOC  TurnIV       MET   314 -      THR    317 -                            ~~~~
+LOC  TurnIV       LEU   315 -      GLY    318 -                            ~~~~
+LOC  TurnIV       PHE   316 -      PHE    319 -                            ~~~~
+LOC  TurnIV       THR   317 -      GLU    320 -                            ~~~~
+LOC  TurnIV       GLY   318 -      THR    321 -                            ~~~~
+LOC  TurnIV       PHE   319 -      ALA    322 -                            ~~~~
+LOC  TurnIV       GLU   320 -      SER    323 -                            ~~~~
+LOC  TurnIV       THR   321 -      GLU    324 -                            ~~~~
+LOC  TurnIV       ALA   322 -      SER    325 -                            ~~~~
+LOC  TurnIV       SER   323 -      ALA    326 -                            ~~~~
+LOC  TurnIV       GLU   324 -      HIS    327 -                            ~~~~
+LOC  TurnIV       SER   325 -      ASP    328 -                            ~~~~
+LOC  TurnIV       ALA   326 -      ALA    329 -                            ~~~~
+LOC  TurnIV       HIS   327 -      ALA    330 -                            ~~~~
+LOC  TurnIV       ASP   328 -      GLN    331 -                            ~~~~
+LOC  TurnIV       ALA   329 -      TYR    332 -                            ~~~~
+LOC  TurnIV       ALA   330 -      ALA    333 -                            ~~~~
+LOC  TurnIV       GLN   331 -      ASN    334 -                            ~~~~
+LOC  TurnIV       TYR   332 -      LYS    335 -                            ~~~~
+LOC  TurnIV       ALA   333 -      LEU    336 -                            ~~~~
+LOC  TurnIV       ASN   334 -      LEU    337 -                            ~~~~
+LOC  TurnIV       LYS   335 -      LEU    338 -                            ~~~~
+LOC  TurnIV       LEU   336 -      LYS    339 -                            ~~~~
+LOC  TurnIV       LEU   337 -      ALA    340 -                            ~~~~
+LOC  TurnIV       LEU   338 -      SER    341 -                            ~~~~
+LOC  TurnIV       LYS   339 -      THR    342 -                            ~~~~
+LOC  TurnIV       ALA   340 -      LEU    343 -                            ~~~~
+LOC  TurnIV       SER   341 -      GLN    344 -                            ~~~~
+LOC  TurnIV       THR   342 -      PRO    345 -                            ~~~~
+LOC  TurnIV       LEU   343 -      ILE    346 -                            ~~~~
+LOC  TurnIV       GLN   344 -      SER    347 -                            ~~~~
+LOC  TurnIV       PRO   345 -      THR    348 -                            ~~~~
+LOC  TurnIV       ILE   346 -      SER    349 -                            ~~~~
+LOC  TurnIV       SER   347 -      THR    350 -                            ~~~~
+LOC  TurnIV       THR   348 -      SER    351 -                            ~~~~
+LOC  TurnIV       SER   349 -      LEU    352 -                            ~~~~
+LOC  TurnIV       THR   350 -      ILE    353 -                            ~~~~
+LOC  TurnIV       SER   351 -      GLY    354 -                            ~~~~
+LOC  TurnIV       LEU   352 -      ALA    355 -                            ~~~~
+LOC  TurnIV       ILE   353 -      LEU    356 -                            ~~~~
+LOC  TurnIV       GLY   354 -      VAL    357 -                            ~~~~
+LOC  TurnIV       ALA   355 -      LEU    358 -                            ~~~~
+LOC  TurnIV       LEU   356 -      ALA    359 -                            ~~~~
+LOC  TurnIV       VAL   357 -      TYR    360 -                            ~~~~
+LOC  TurnIV       LEU   358 -      TYR    361 -                            ~~~~
+LOC  TurnIV       ALA   359 -      SER    362 -                            ~~~~
+LOC  TurnIV       TYR   360 -      GLY    363 -                            ~~~~
+LOC  TurnIV       TYR   361 -      LEU    364 -                            ~~~~
+LOC  TurnIV       SER   362 -      GLY    365 -                            ~~~~
+LOC  TurnIV       GLY   363 -      GLY    366 -                            ~~~~
+LOC  TurnIV       LEU   364 -      THR    367 -                            ~~~~
+LOC  TurnIV       GLY   365 -      LEU    368 -                            ~~~~
+LOC  TurnIV       GLY   366 -      LEU    369 -                            ~~~~
+LOC  TurnIV       THR   367 -      LEU    370 -                            ~~~~
+LOC  TurnIV       LEU   368 -      ARG    371 -                            ~~~~
+LOC  TurnIV       LEU   369 -      LYS    372 -                            ~~~~
+LOC  TurnIV       LEU   370 -      LEU    373 -                            ~~~~
+LOC  TurnIV       ARG   371 -      ALA    374 -                            ~~~~
+LOC  TurnIV       LYS   372 -      SER    375 -                            ~~~~
+LOC  TurnIV       LEU   373 -      GLN    376 -                            ~~~~
+LOC  TurnIV       ALA   374 -      SER    377 -                            ~~~~
+LOC  TurnIV       SER   375 -      ILE    378 -                            ~~~~
+LOC  TurnIV       GLN   376 -      GLN    379 -                            ~~~~
+LOC  TurnIV       SER   377 -      SER    380 -                            ~~~~
+LOC  TurnIV       ILE   378 -      PHE    381 -                            ~~~~
+LOC  TurnIV       GLN   379 -      ASP    382 -                            ~~~~
+LOC  TurnIV       SER   380 -      GLU    383 -                            ~~~~
+LOC  TurnIV       PHE   381 -      GLY    384 -                            ~~~~
+LOC  TurnIV       ASP   382 -      ILE    385 -                            ~~~~
+LOC  TurnIV       GLU   383 -      ALA    386 -                            ~~~~
+LOC  TurnIV       GLY   384 -      GLU    387 -                            ~~~~
+LOC  TurnIV       ILE   385 -      SER    388 -                            ~~~~
+LOC  TurnIV       ALA   386 -      LYS    389 -                            ~~~~
+LOC  TurnIV       GLU   387 -      GLY    390 -                            ~~~~
+LOC  TurnIV       SER   388 -      ALA    391 -                            ~~~~
+LOC  TurnIV       LYS   389 -      THR    392 -                            ~~~~
+LOC  TurnIV       GLY   390 -      ALA    393 -                            ~~~~
+LOC  TurnIV       ALA   391 -      SER    394 -                            ~~~~
+LOC  TurnIV       THR   392 -      ASP    395 -                            ~~~~
+LOC  TurnIV       ALA   393 -      ILE    396 -                            ~~~~
+LOC  TurnIV       SER   394 -      LYS    397 -                            ~~~~
+LOC  TurnIV       ASP   395 -      ALA    398 -                            ~~~~
+LOC  TurnIV       ILE   396 -      GLU    399 -                            ~~~~
+LOC  TurnIV       LYS   397 -      GLU    400 -                            ~~~~
+LOC  TurnIV       ALA   398 -      VAL    401 -                            ~~~~
+LOC  TurnIV       GLU   399 -      PHE    402 -                            ~~~~
+LOC  TurnIV       GLU   400 -      GLN    403 -                            ~~~~
+LOC  TurnIV       VAL   401 -      SER    404 -                            ~~~~
+LOC  TurnIV       PHE   402 -      SER    405 -                            ~~~~
+LOC  TurnIV       GLN   403 -      GLY    406 -                            ~~~~
+LOC  TurnIV       SER   404 -      GLY    407 -                            ~~~~
+LOC  TurnIV       SER   405 -      ILE    408 -                            ~~~~
+LOC  TurnIV       GLY   406 -      THR    409 -                            ~~~~
+LOC  TurnIV       GLY   407 -      GLY    410 -                            ~~~~
+LOC  TurnIV       ILE   408 -      HIS    411 -                            ~~~~
+LOC  TurnIV       THR   409 -      LEU    412 -                            ~~~~
+LOC  TurnIV       GLY   410 -      ASN    413 -                            ~~~~
+LOC  TurnIV       HIS   411 -      GLY    414 -                            ~~~~
+LOC  TurnIV       LEU   412 -      SER    415 -                            ~~~~
+LOC  TurnIV       ASN   413 -      ASN    416 -                            ~~~~
+LOC  TurnIV       GLY   414 -      ASN    417 -                            ~~~~
+LOC  TurnIV       SER   415 -      ALA    418 -                            ~~~~
+LOC  TurnIV       ASN   416 -      GLY    419 -                            ~~~~
+LOC  TurnIV       ASN   417 -      THR    420 -                            ~~~~
+LOC  TurnIV       ALA   418 -      SER    421 -                            ~~~~
+LOC  TurnIV       GLY   419 -      ALA    422 -                            ~~~~
+LOC  TurnIV       THR   420 -      GLY    423 -                            ~~~~
+LOC  TurnIV       SER   421 -      GLY    424 -                            ~~~~
+LOC  TurnIV       ALA   422 -      MET    425 -                            ~~~~
+LOC  TurnIV       GLY   423 -      GLY    426 -                            ~~~~
+LOC  TurnIV       GLY   424 -      THR    427 -                            ~~~~
+LOC  TurnIV       MET   425 -      LYS    428 -                            ~~~~
+LOC  TurnIV       GLY   426 -      TYR    429 -                            ~~~~
+LOC  TurnIV       THR   427 -      GLY    430 -                            ~~~~
+LOC  TurnIV       LYS   428 -      GLY    431 -                            ~~~~
+LOC  TurnIV       TYR   429 -      GLY    432 -                            ~~~~
+LOC  TurnIV       GLY   430 -      ALA    433 -                            ~~~~
+LOC  TurnIV       GLY   431 -      SER    434 -                            ~~~~
+LOC  TurnIV       GLY   432 -      ALA    435 -                            ~~~~
+LOC  TurnIV       ALA   433 -      GLU    436 -                            ~~~~
+LOC  TurnIV       SER   434 -      LEU    437 -                            ~~~~
+LOC  TurnIV       ALA   435 -      VAL    438 -                            ~~~~
+LOC  TurnIV       GLU   436 -      LEU    439 -                            ~~~~
+LOC  TurnIV       LEU   437 -      GLY    440 -                            ~~~~
+LOC  TurnIV       VAL   438 -      GLY    441 -                            ~~~~
+LOC  TurnIV       LEU   439 -      GLU    442 -                            ~~~~
+LOC  TurnIV       GLY   440 -      GLU    443 -                            ~~~~
+LOC  TurnIV       GLY   441 -      ASN    444 -                            ~~~~
+LOC  TurnIV       GLU   442 -      THR    445 -                            ~~~~
+LOC  TurnIV       GLU   443 -      SER    446 -                            ~~~~
+LOC  TurnIV       ASN   444 -      ALA    447 -                            ~~~~
+LOC  TurnIV       THR   445 -      CYS    448 -                            ~~~~
+LOC  TurnIV       SER   446 -      ALA    449 -                            ~~~~
+LOC  TurnIV       ALA   447 -      ALA    450 -                            ~~~~
+LOC  TurnIV       CYS   448 -      ALA    451 -                            ~~~~
+LOC  TurnIV       ALA   449 -      PHE    452 -                            ~~~~
+LOC  TurnIV       ALA   450 -      ALA    453 -                            ~~~~
+LOC  TurnIV       ALA   451 -      LEU    454 -                            ~~~~
+LOC  TurnIV       PHE   452 -      GLU    455 -                            ~~~~
+LOC  TurnIV       ALA   453 -      GLU    456 -                            ~~~~
+LOC  TurnIV       LEU   454 -      GLY    457 -                            ~~~~
+LOC  TurnIV       GLU   455 -      ALA    458 -                            ~~~~
+LOC  TurnIV       GLU   456 -      ALA    459 -                            ~~~~
+LOC  TurnIV       GLY   457 -      GLY    460 -                            ~~~~
+LOC  TurnIV       ALA   458 -      GLY    461 -                            ~~~~
+LOC  TurnIV       ALA   459 -      LEU    462 -                            ~~~~
+LOC  TurnIV       GLY   460 -      LYS    463 -                            ~~~~
+LOC  TurnIV       GLY   461 -      ALA    464 -                            ~~~~
+LOC  TurnIV       LEU   462 -      GLN    465 -                            ~~~~
+LOC  TurnIV       LYS   463 -      ALA    466 -                            ~~~~
+LOC  TurnIV       ALA   464 -      ALA    467 -                            ~~~~
+LOC  TurnIV       GLN   465 -      ILE    468 -                            ~~~~
+LOC  TurnIV       ALA   466 -      CYS    469 -                            ~~~~
+LOC  TurnIV       ALA   467 -      ALA    470 -                            ~~~~
+LOC  TurnIV       ILE   468 -      LYS    471 -                            ~~~~
+LOC  TurnIV       CYS   469 -      GLU    472 -                            ~~~~
+LOC  TurnIV       ALA   470 -      ALA    473 -                            ~~~~
+LOC  TurnIV       LYS   471 -      ALA    474 -                            ~~~~
+LOC  TurnIV       GLU   472 -      SER    475 -                            ~~~~
+LOC  TurnIV       ALA   473 -      PRO    476 -                            ~~~~
+LOC  TurnIV       ALA   474 -      LYS    477 -                            ~~~~
+LOC  TurnIV       SER   475 -      ALA    478 -                            ~~~~
+LOC  TurnIV       PRO   476 -      GLU    479 -                            ~~~~
+LOC  TurnIV       LYS   477 -      ALA    480 -                            ~~~~
+LOC  TurnIV       ALA   478 -      THR    481 -                            ~~~~
+LOC  TurnIV       GLU   479 -      ALA    482 -                            ~~~~
+LOC  TurnIV       ALA   480 -      THR    483 -                            ~~~~
+LOC  TurnIV       THR   481 -      GLY    484 -                            ~~~~
+LOC  TurnIV       ALA   482 -      ASN    485 -                            ~~~~
+LOC  TurnIV       THR   483 -      ALA    486 -                            ~~~~
+LOC  TurnIV       GLY   484 -      ALA    487 -                            ~~~~
+LOC  TurnIV       ASN   485 -      LYS    488 -                            ~~~~
+LOC  TurnIV       ALA   486 -      ASN    489 -                            ~~~~
+LOC  TurnIV       ALA   487 -      ASP    490 -                            ~~~~
+LOC  TurnIV       LYS   488 -      VAL    491 -                            ~~~~
+LOC  TurnIV       ASN   489 -      LEU    492 -                            ~~~~
+LOC  TurnIV       ASP   490 -      LEU    493 -                            ~~~~
+LOC  TurnIV       VAL   491 -      MET    494 -                            ~~~~
+LOC  TurnIV       LEU   492 -      VAL    495 -                            ~~~~
+LOC  TurnIV       LEU   493 -      GLY    496 -                            ~~~~
+LOC  TurnIV       MET   494 -      THR    497 -                            ~~~~
+LOC  TurnIV       VAL   495 -      LEU    498 -                            ~~~~
+LOC  TurnIV       GLY   496 -      LYS    499 -                            ~~~~
+LOC  TurnIV       THR   497 -      LEU    500 -                            ~~~~
+LOC  TurnIV       LEU   498 -      ALA    501 -                            ~~~~
+LOC  TurnIV       LYS   499 -      SER    502 -                            ~~~~
+LOC  TurnIV       LEU   500 -      THR    503 -                            ~~~~
+LOC  TurnIV       ALA   501 -      LYS    504 -                            ~~~~
+LOC  TurnIV       SER   502 -      GLY    505 -                            ~~~~
+LOC  TurnIV       THR   503 -      ILE    506 -                            ~~~~
+LOC  TurnIV       LYS   504 -      GLY    507 -                            ~~~~
+LOC  TurnIV       GLY   505 -      LEU    508 -                            ~~~~
+LOC  TurnIV       ILE   506 -      ILE    509 -                            ~~~~
+LOC  TurnIV       GLY   507 -      LYS    510 -                            ~~~~
+LOC  TurnIV       LEU   508 -      ALA    511 -                            ~~~~
+LOC  TurnIV       ILE   509 -      SER    512 -                            ~~~~
+LOC  TurnIV       LYS   510 -      ARG    513 -                            ~~~~
+LOC  TurnIV       ALA   511 -      GLY    514 -                            ~~~~
+LOC  TurnIV       SER   512 -      ASN    515 -                            ~~~~
+LOC  TurnIV       ARG   513 -      MET    516 -                            ~~~~
+LOC  TurnIV       GLY   514 -      ARG    517 -                            ~~~~
+LOC  TurnIV       ASN   515 -      GLY    518 -                            ~~~~
+LOC  TurnIV       MET   516 -      MET    519 -                            ~~~~
+LOC  TurnIV       ARG   517 -      THR    520 -                            ~~~~
+LOC  TurnIV       GLY   518 -      VAL    521 -                            ~~~~
+LOC  TurnIV       MET   519 -      ALA    522 -                            ~~~~
+LOC  TurnIV       THR   520 -      GLY    523 -                            ~~~~
+LOC  TurnIV       VAL   521 -      GLY    524 -                            ~~~~
+LOC  TurnIV       ALA   522 -      SER    525 -                            ~~~~
+LOC  TurnIV       GLY   523 -      GLY    526 -                            ~~~~
+LOC  TurnIV       GLY   524 -      LYS    527 -                            ~~~~
+LOC  TurnIV       SER   525 -      ASP    528 -                            ~~~~
+LOC  TurnIV       GLY   526 -      ASN    529 -                            ~~~~
+LOC  TurnIV       LYS   527 -      SER    530 -                            ~~~~
+LOC  TurnIV       ASP   528 -      GLN    531 -                            ~~~~
+LOC  TurnIV       ASN   529 -      GLU    532 -                            ~~~~
+LOC  TurnIV       SER   530 -      PRO    533 -                            ~~~~
+LOC  TurnIV       GLN   531 -      LYS    534 -                            ~~~~
+LOC  TurnIV       GLU   532 -      GLY    535 -                            ~~~~
+LOC  TurnIV       PRO   533 -      THR    536 -                            ~~~~
+LOC  TurnIV       LYS   534 -      GLU    537 -                            ~~~~
+LOC  TurnIV       GLY   535 -      SER    538 -                            ~~~~
+LOC  TurnIV       THR   536 -      THR    539 -                            ~~~~
+LOC  TurnIV       GLU   537 -      TYR    540 -                            ~~~~
+LOC  TurnIV       SER   538 -      ARG    541 -                            ~~~~
+LOC  TurnIV       THR   539 -      SER    542 -                            ~~~~
+LOC  TurnIV       TYR   540 -      SER    543 -                            ~~~~
+LOC  TurnIV       ARG   541 -      ASP    544 -                            ~~~~
+LOC  TurnIV       SER   542 -      LYS    545 -                            ~~~~
+LOC  TurnIV       SER   543 -      LYS    546 -                            ~~~~
+LOC  TurnIV       ASP   544 -      LYS    547 -                            ~~~~
+LOC  TurnIV       LYS   545 -      SER    548 -                            ~~~~
+LOC  TurnIV       LYS   546 -      THR    549 -                            ~~~~
+LOC  TurnIV       LYS   547 -      LYS    550 -                            ~~~~
+LOC  TurnIV       SER   548 -      LEU    551 -                            ~~~~
+LOC  TurnIV       THR   549 -      GLY    552 -                            ~~~~
+LOC  TurnIV       LYS   550 -      GLN    553 -                            ~~~~
+LOC  TurnIV       LEU   551 -      GLU    554 -                            ~~~~
+LOC  TurnIV       GLY   552 -      THR    555 -                            ~~~~
+LOC  TurnIV       GLN   553 -      LEU    556 -                            ~~~~
+LOC  TurnIV       GLU   554 -      ASP    557 -                            ~~~~
+LOC  TurnIV       THR   555 -      SER    558 -                            ~~~~
+LOC  TurnIV       LEU   556 -      ASP    559 -                            ~~~~
+LOC  TurnIV       ASP   557 -      GLY    560 -                            ~~~~
+LOC  TurnIV       SER   558 -      MET    561 -                            ~~~~
+LOC  TurnIV       ASP   559 -      GLY    562 -                            ~~~~
+LOC  TurnIV       GLY   560 -      SER    563 -                            ~~~~
+LOC  TurnIV       MET   561 -      SER    564 -                            ~~~~
+LOC  TurnIV       GLY   562 -      ASP    565 -                            ~~~~
+LOC  TurnIV       SER   563 -      THR    566 -                            ~~~~
+LOC  TurnIV       SER   564 -      ASP    567 -                            ~~~~
+LOC  TurnIV       ASP   565 -      VAL    568 -                            ~~~~
+LOC  TurnIV       THR   566 -      LEU    569 -                            ~~~~
+LOC  TurnIV       ASP   567 -      GLU    570 -                            ~~~~
+LOC  TurnIV       VAL   568 -      ASP    571 -                            ~~~~
+LOC  TurnIV       LEU   569 -      ASP    572 -                            ~~~~
+LOC  TurnIV       GLU   570 -      ALA    573 -                            ~~~~
+LOC  TurnIV       ASP   571 -      ASN    574 -                            ~~~~
+LOC  TurnIV       ASP   572 -      ASP    575 -                            ~~~~
+LOC  TurnIV       ALA   573 -      GLU    576 -                            ~~~~
+LOC  TurnIV       ASN   574 -      ARG    577 -                            ~~~~
+LOC  TurnIV       ASP   575 -      VAL    578 -                            ~~~~
+LOC  TurnIV       GLU   576 -      LEU    579 -                            ~~~~
+LOC  TurnIV       ARG   577 -      GLY    580 -                            ~~~~
+LOC  TurnIV       VAL   578 -      GLY    581 -                            ~~~~
+LOC  TurnIV       LEU   579 -      ALA    582 -                            ~~~~
+LOC  TurnIV       GLY   580 -      THR    583 -                            ~~~~
+LOC  TurnIV       GLY   581 -      GLN    584 -                            ~~~~
+LOC  TurnIV       ALA   582 -      THR    585 -                            ~~~~
+LOC  TurnIV       THR   583 -      GLU    586 -                            ~~~~
+LOC  TurnIV       GLN   584 -      GLY    587 -                            ~~~~
+LOC  TurnIV       THR   585 -      TYR    588 -                            ~~~~
+LOC  TurnIV       GLU   586 -      LEU    589 -                            ~~~~
+LOC  TurnIV       GLY   587 -      GLN    590 -                            ~~~~
+LOC  TurnIV       TYR   588 -      ALA    591 -                            ~~~~
+LOC  TurnIV       LEU   589 -      LEU    592 -                            ~~~~
+LOC  TurnIV       GLN   590 -      THR    593 -                            ~~~~
+LOC  TurnIV       ALA   591 -      GLU    594 -                            ~~~~
+LOC  TurnIV       LEU   592 -      THR    595 -                            ~~~~
+LOC  TurnIV       THR   593 -      ARG    596 -                            ~~~~
+LOC  TurnIV       GLU   594 -      ASN    597 -                            ~~~~
+LOC  TurnIV       THR   595 -      ALA    598 -                            ~~~~
+LOC  TurnIV       ARG   596 -      PRO      1 -                            ~~~~
+LOC  TurnIV       ASN   597 -      GLU      2 -                            ~~~~
+LOC  TurnIV       ALA   598 -      GLY      3 -                            ~~~~
+LOC  TurnIV       PRO     1 -      ASP      4 -                            ~~~~
+LOC  TurnIV       GLU     2 -      LYS      5 -                            ~~~~
+LOC  TurnIV       GLY     3 -      LEU      6 -                            ~~~~
+LOC  TurnIV       ASP     4 -      ALA      7 -                            ~~~~
+LOC  TurnIV       LYS     5 -      THR      8 -                            ~~~~
+LOC  TurnIV       LEU     6 -      ALA      9 -                            ~~~~
+LOC  TurnIV       ALA     7 -      ALA     10 -                            ~~~~
+LOC  TurnIV       THR     8 -      ALA     11 -                            ~~~~
+LOC  TurnIV       ALA     9 -      LEU     12 -                            ~~~~
+LOC  TurnIV       ALA    10 -      GLY     13 -                            ~~~~
+LOC  TurnIV       ALA    11 -      ASN     14 -                            ~~~~
+LOC  TurnIV       LEU    12 -      ILE     15 -                            ~~~~
+LOC  TurnIV       GLY    13 -      GLU     16 -                            ~~~~
+LOC  TurnIV       ASN    14 -      GLU     17 -                            ~~~~
+LOC  TurnIV       ILE    15 -      VAL     18 -                            ~~~~
+LOC  TurnIV       GLU    16 -      ARG     19 -                            ~~~~
+LOC  TurnIV       GLU    17 -      PHE     20 -                            ~~~~
+LOC  TurnIV       VAL    18 -      LEU     21 -                            ~~~~
+LOC  TurnIV       ARG    19 -      LEU     22 -                            ~~~~
+LOC  TurnIV       PHE    20 -      THR     23 -                            ~~~~
+LOC  TurnIV       LEU    21 -      VAL     24 -                            ~~~~
+LOC  TurnIV       LEU    22 -      GLU     25 -                            ~~~~
+LOC  TurnIV       THR    23 -      LYS     26 -                            ~~~~
+LOC  TurnIV       VAL    24 -      VAL     27 -                            ~~~~
+LOC  TurnIV       GLU    25 -      PRO     28 -                            ~~~~
+LOC  TurnIV       LYS    26 -      ALA     29 -                            ~~~~
+LOC  TurnIV       VAL    27 -      GLN     30 -                            ~~~~
+LOC  TurnIV       PRO    28 -      ALA     31 -                            ~~~~
+LOC  TurnIV       ALA    29 -      LEU     32 -                            ~~~~
+LOC  TurnIV       GLN    30 -      CYS     33 -                            ~~~~
+LOC  TurnIV       ALA    31 -      HIS     34 -                            ~~~~
+LOC  TurnIV       LEU    32 -      ASN     35 -                            ~~~~
+LOC  TurnIV       CYS    33 -      GLY     36 -                            ~~~~
+LOC  TurnIV       HIS    34 -      LEU     37 -                            ~~~~
+LOC  TurnIV       ASN    35 -      SER     38 -                            ~~~~
+LOC  TurnIV       GLY    36 -      ALA     39 -                            ~~~~
+LOC  TurnIV       LEU    37 -      LEU     40 -                            ~~~~
+LOC  TurnIV       SER    38 -      MET     41 -                            ~~~~
+LOC  TurnIV       ALA    39 -      VAL     42 -                            ~~~~
+LOC  TurnIV       LEU    40 -      ALA     43 -                            ~~~~
+LOC  TurnIV       MET    41 -      ASP     44 -                            ~~~~
+LOC  TurnIV       VAL    42 -      PHE     45 -                            ~~~~
+LOC  TurnIV       ALA    43 -      ARG     46 -                            ~~~~
+LOC  TurnIV       ASP    44 -      ALA     47 -                            ~~~~
+LOC  TurnIV       PHE    45 -      ALA     48 -                            ~~~~
+LOC  TurnIV       ARG    46 -      GLU     49 -                            ~~~~
+LOC  TurnIV       ALA    47 -      VAL     50 -                            ~~~~
+LOC  TurnIV       ALA    48 -      THR     51 -                            ~~~~
+LOC  TurnIV       GLU    49 -      LYS     52 -                            ~~~~
+LOC  TurnIV       VAL    50 -      LEU     53 -                            ~~~~
+LOC  TurnIV       THR    51 -      LEU     54 -                            ~~~~
+LOC  TurnIV       LYS    52 -      LEU     55 -                            ~~~~
+LOC  TurnIV       LEU    53 -      ASP     56 -                            ~~~~
+LOC  TurnIV       LEU    54 -      HIS     57 -                            ~~~~
+LOC  TurnIV       LEU    55 -      GLY     58 -                            ~~~~
+LOC  TurnIV       ASP    56 -      ALA     59 -                            ~~~~
+LOC  TurnIV       HIS    57 -      ASP     60 -                            ~~~~
+LOC  TurnIV       GLY    58 -      PRO     61 -                            ~~~~
+LOC  TurnIV       ALA    59 -      ASN     62 -                            ~~~~
+LOC  TurnIV       ASP    60 -      GLU     63 -                            ~~~~
+LOC  TurnIV       PRO    61 -      ALA     64 -                            ~~~~
+LOC  TurnIV       ASN    62 -      THR     65 -                            ~~~~
+LOC  TurnIV       GLU    63 -      ASP     66 -                            ~~~~
+LOC  TurnIV       ALA    64 -      GLN     67 -                            ~~~~
+LOC  TurnIV       THR    65 -      GLY     68 -                            ~~~~
+LOC  TurnIV       ASP    66 -      ILE     69 -                            ~~~~
+LOC  TurnIV       GLN    67 -      ASN     70 -                            ~~~~
+LOC  TurnIV       GLY    68 -      ALA     71 -                            ~~~~
+LOC  TurnIV       ILE    69 -      ALA     72 -                            ~~~~
+LOC  TurnIV       ASN    70 -      TYR     73 -                            ~~~~
+LOC  TurnIV       ALA    71 -      LEU     74 -                            ~~~~
+LOC  TurnIV       ALA    72 -      ALA     75 -                            ~~~~
+LOC  TurnIV       TYR    73 -      ALA     76 -                            ~~~~
+LOC  TurnIV       LEU    74 -      ALA     77 -                            ~~~~
+LOC  TurnIV       ALA    75 -      LEU     78 -                            ~~~~
+LOC  TurnIV       ALA    76 -      GLY     79 -                            ~~~~
+LOC  TurnIV       ALA    77 -      ASN     80 -                            ~~~~
+LOC  TurnIV       LEU    78 -      ALA     81 -                            ~~~~
+LOC  TurnIV       GLY    79 -      GLU     82 -                            ~~~~
+LOC  TurnIV       ASN    80 -      THR     83 -                            ~~~~
+LOC  TurnIV       ALA    81 -      MET     84 -                            ~~~~
+LOC  TurnIV       GLU    82 -      LEU     85 -                            ~~~~
+LOC  TurnIV       THR    83 -      VAL     86 -                            ~~~~
+LOC  TurnIV       MET    84 -      LEU     87 -                            ~~~~
+LOC  TurnIV       LEU    85 -      ILE     88 -                            ~~~~
+LOC  TurnIV       VAL    86 -      SER     89 -                            ~~~~
+LOC  TurnIV       LEU    87 -      LYS     90 -                            ~~~~
+LOC  TurnIV       ILE    88 -      GLY     91 -                            ~~~~
+LOC  TurnIV       SER    89 -      ALA     92 -                            ~~~~
+LOC  TurnIV       LYS    90 -      ASP     93 -                            ~~~~
+LOC  TurnIV       GLY    91 -      ILE     94 -                            ~~~~
+LOC  TurnIV       ALA    92 -      THR     95 -                            ~~~~
+LOC  TurnIV       ASP    93 -      THR     96 -                            ~~~~
+LOC  TurnIV       ILE    94 -      PRO     97 -                            ~~~~
+LOC  TurnIV       THR    95 -      THR     98 -                            ~~~~
+LOC  TurnIV       THR    96 -      SER     99 -                            ~~~~
+LOC  TurnIV       PRO    97 -      LYS    100 -                            ~~~~
+LOC  TurnIV       THR    98 -      GLY    101 -                            ~~~~
+LOC  TurnIV       SER    99 -      GLU    102 -                            ~~~~
+LOC  TurnIV       LYS   100 -      LEU    103 -                            ~~~~
+LOC  TurnIV       GLY   101 -      PRO    104 -                            ~~~~
+LOC  TurnIV       GLU   102 -      ILE    105 -                            ~~~~
+LOC  TurnIV       LEU   103 -      MET    106 -                            ~~~~
+LOC  TurnIV       PRO   104 -      ALA    107 -                            ~~~~
+LOC  TurnIV       ILE   105 -      ALA    108 -                            ~~~~
+LOC  TurnIV       MET   106 -      VAL    109 -                            ~~~~
+LOC  TurnIV       ALA   107 -      LEU    110 -                            ~~~~
+LOC  TurnIV       ALA   108 -      ASN    111 -                            ~~~~
+LOC  TurnIV       VAL   109 -      GLY    112 -                            ~~~~
+LOC  TurnIV       LEU   110 -      ASN    113 -                            ~~~~
+LOC  TurnIV       ASN   111 -      LYS    114 -                            ~~~~
+LOC  TurnIV       GLY   112 -      GLU    115 -                            ~~~~
+LOC  TurnIV       ASN   113 -      VAL    116 -                            ~~~~
+LOC  TurnIV       LYS   114 -      VAL    117 -                            ~~~~
+LOC  TurnIV       GLU   115 -      GLU    118 -                            ~~~~
+LOC  TurnIV       VAL   116 -      ILE    119 -                            ~~~~
+LOC  TurnIV       VAL   117 -      LEU    120 -                            ~~~~
+LOC  TurnIV       GLU   118 -      THR    121 -                            ~~~~
+LOC  TurnIV       ILE   119 -      TYR    122 -                            ~~~~
+LOC  TurnIV       LEU   120 -      GLY    123 -                            ~~~~
+LOC  TurnIV       THR   121 -      ALA    124 -                            ~~~~
+LOC  TurnIV       TYR   122 -      ASP    125 -                            ~~~~
+LOC  TurnIV       GLY   123 -      LEU    126 -                            ~~~~
+LOC  TurnIV       ALA   124 -      SER    127 -                            ~~~~
+LOC  TurnIV       ASP   125 -      GLN    128 -                            ~~~~
+LOC  TurnIV       LEU   126 -      LYS    129 -                            ~~~~
+LOC  TurnIV       SER   127 -      GLY    130 -                            ~~~~
+LOC  TurnIV       GLN   128 -      ALA    131 -                            ~~~~
+LOC  TurnIV       LYS   129 -      GLU    132 -                            ~~~~
+LOC  TurnIV       GLY   130 -      GLY    133 -                            ~~~~
+LOC  TurnIV       ALA   131 -      LEU    134 -                            ~~~~
+LOC  TurnIV       GLU   132 -      THR    135 -                            ~~~~
+LOC  TurnIV       GLY   133 -      PRO    136 -                            ~~~~
+LOC  TurnIV       LEU   134 -      LYS    137 -                            ~~~~
+LOC  TurnIV       THR   135 -      GLN    138 -                            ~~~~
+LOC  TurnIV       PRO   136 -      ILE    139 -                            ~~~~
+LOC  TurnIV       LYS   137 -      ALA    140 -                            ~~~~
+LOC  TurnIV       GLN   138 -      GLY    141 -                            ~~~~
+LOC  TurnIV       ILE   139 -      LYS    142 -                            ~~~~
+LOC  TurnIV       ALA   140 -      LEU    143 -                            ~~~~
+LOC  TurnIV       GLY   141 -      GLY    144 -                            ~~~~
+LOC  TurnIV       LYS   142 -      LEU    145 -                            ~~~~
+LOC  TurnIV       LEU   143 -      GLU    146 -                            ~~~~
+LOC  TurnIV       GLY   144 -      GLU    147 -                            ~~~~
+LOC  TurnIV       LEU   145 -      VAL    148 -                            ~~~~
+LOC  TurnIV       GLU   146 -      LEU    149 -                            ~~~~
+LOC  TurnIV       GLU   147 -      LYS    150 -                            ~~~~
+LOC  TurnIV       VAL   148 -      ILE    151 -                            ~~~~
+LOC  TurnIV       LEU   149 -      LEU    152 -                            ~~~~
+LOC  TurnIV       LYS   150 -      LYS    153 -                            ~~~~
+LOC  TurnIV       ILE   151 -      LYS    154 -                            ~~~~
+LOC  TurnIV       LEU   152 -      ALA    155 -                            ~~~~
+REM                                                                        ~~~~
+REM  --------------- Detailed secondary structure assignment-------------  ~~~~
+REM                                                                        ~~~~
+REM  |---Residue---|    |--Structure--|   |-Phi-|   |-Psi-|  |-Area-|      ~~~~
+ASG  GLU -    1    1    T          Turn    360.00    360.00      83.1      ~~~~
+ASG  ASN -    2    2    T          Turn    360.00    360.00     100.6      ~~~~
+ASG  SER -    3    3    T          Turn    360.00    360.00      99.2      ~~~~
+ASG  ASN -    4    4    T          Turn    360.00    360.00     122.8      ~~~~
+ASG  ASP -    5    5    T          Turn    360.00     -0.08      14.8      ~~~~
+ASG  ASP -    6    6    T          Turn     -0.08    360.00      53.1      ~~~~
+ASG  LYS -    7    7    T          Turn    360.00    360.00     173.6      ~~~~
+ASG  GLU -    8    8    T          Turn    360.00     90.85      50.5      ~~~~
+ASG  LYS -    9    9    T          Turn     17.61    360.00     133.7      ~~~~
+ASG  LYS -   10   10    T          Turn    360.00    360.00     131.7      ~~~~
+ASG  SER -   11   11    T          Turn    360.00    360.00     103.2      ~~~~
+ASG  LEU -   12   12    T          Turn    360.00    360.00      96.4      ~~~~
+ASG  SER -   13   13    T          Turn    360.00    360.00      88.2      ~~~~
+ASG  SER -   14   14    T          Turn    360.00    360.00      74.6      ~~~~
+ASG  SER -   15   15    T          Turn    360.00    360.00     117.1      ~~~~
+ASG  ASN -   16   16    T          Turn    360.00    360.00      70.7      ~~~~
+ASG  GLY -   17   17    T          Turn    360.00    360.00      46.1      ~~~~
+ASG  LYS -   18   18    T          Turn    360.00    360.00     181.6      ~~~~
+ASG  GLU -   19   19    T          Turn    360.00      0.08      99.0      ~~~~
+ASG  GLU -   20   20    T          Turn      0.08     80.91      95.6      ~~~~
+ASG  GLN -   21   21    T          Turn     11.44    360.00     111.9      ~~~~
+ASG  ALA -   22   22    T          Turn    360.00    360.00      34.7      ~~~~
+ASG  LYS -   23   23    T          Turn    360.00    360.00     147.7      ~~~~
+ASG  SER -   24   24    T          Turn    360.00    360.00     109.0      ~~~~
+ASG  ASN -   25   25    T          Turn    360.00    360.00     118.6      ~~~~
+ASG  GLY -   26   26    T          Turn    360.00      0.08      28.3      ~~~~
+ASG  GLY -   27   27    T          Turn      0.08    -15.59      22.4      ~~~~
+ASG  ALA -   28   28    T          Turn      5.23    360.00       8.2      ~~~~
+ASG  GLY -   29   29    T          Turn    360.00    -15.59      27.9      ~~~~
+ASG  ALA -   30   30    T          Turn      5.23    -18.26      89.8      ~~~~
+ASG  ASP -   31   31    T          Turn     33.91    360.00      40.3      ~~~~
+ASG  GLU -   32   32    T          Turn    360.00     90.85      81.3      ~~~~
+ASG  LYS -   33   33    T          Turn     17.61    360.00     140.9      ~~~~
+ASG  ASN -   34   34    T          Turn    360.00    -47.14     107.8      ~~~~
+ASG  LYS -   35   35    T          Turn   -117.25    360.00     114.2      ~~~~
+ASG  GLY -   36   36    T          Turn    360.00    -91.46      35.3      ~~~~
+ASG  TYR -   37   37    T          Turn    147.44    360.00     189.6      ~~~~
+ASG  GLY -   38   38    T          Turn    360.00    360.00      16.6      ~~~~
+ASG  LYS -   39   39    T          Turn    360.00    360.00     170.4      ~~~~
+ASG  THR -   40   40    T          Turn    360.00    360.00      62.7      ~~~~
+ASG  GLU -   41   41    T          Turn    360.00    360.00     121.6      ~~~~
+ASG  ASN -   42   42    T          Turn    360.00    360.00     109.2      ~~~~
+ASG  SER -   43   43    T          Turn    360.00    360.00      23.1      ~~~~
+ASG  LYS -   44   44    T          Turn    360.00    360.00     112.8      ~~~~
+ASG  GLY -   45   45    T          Turn    360.00    360.00      45.1      ~~~~
+ASG  LYS -   46   46    T          Turn    360.00    360.00     134.3      ~~~~
+ASG  TRP -   47   47    T          Turn    360.00    166.83     109.9      ~~~~
+ASG  ASP -   48   48    T          Turn     56.64    360.00      53.1      ~~~~
+ASG  ARG -   49   49    T          Turn    360.00    360.00     231.2      ~~~~
+ASG  TYR -   50   50    T          Turn    360.00    152.09     170.2      ~~~~
+ASG  CYS -   51   51    T          Turn    168.24     36.98      11.6      ~~~~
+ASG  THR -   52   52    T          Turn    169.56     -4.19      81.0      ~~~~
+ASG  SER -   53   53    T          Turn     -4.92    360.00      85.4      ~~~~
+ASG  SER -   54   54    T          Turn    360.00    360.00      21.0      ~~~~
+ASG  GLU -   55   55    T          Turn    360.00    360.00     124.2      ~~~~
+ASG  ASP -   56   56    T          Turn    360.00    360.00      70.6      ~~~~
+ASG  LYS -   57   57    T          Turn    360.00    360.00     120.7      ~~~~
+ASG  ALA -   58   58    T          Turn    360.00    -19.10      74.0      ~~~~
+ASG  TYR -   59   59    T          Turn    134.21    360.00     258.4      ~~~~
+ASG  TYR -   60   60    T          Turn    360.00    360.00     185.4      ~~~~
+ASG  SER -   61   61    T          Turn    360.00    360.00      72.8      ~~~~
+ASG  PHE -   62   62    T          Turn    360.00    360.00     232.0      ~~~~
+ASG  ASN -   63   63    T          Turn    360.00    360.00     126.6      ~~~~
+ASG  SER -   64   64    T          Turn    360.00    360.00      88.0      ~~~~
+ASG  GLY -   65   65    T          Turn    360.00    -15.59      24.7      ~~~~
+ASG  ALA -   66   66    T          Turn      5.23    -18.26      64.3      ~~~~
+ASG  ASP -   67   67    T          Turn     33.91    360.00     102.0      ~~~~
+ASG  ARG -   68   68    T          Turn    360.00    360.00     155.4      ~~~~
+ASG  MET -   69   69    T          Turn    360.00    360.00     139.4      ~~~~
+ASG  ALA -   70   70    T          Turn    360.00    360.00      91.0      ~~~~
+ASG  LYS -   71   71    T          Turn    360.00    360.00     147.1      ~~~~
+ASG  HIS -   72   72    T          Turn    360.00    360.00     170.9      ~~~~
+ASG  SER -   73   73    T          Turn    360.00    360.00     103.8      ~~~~
+ASG  SER -   74   74    T          Turn    360.00    360.00      99.4      ~~~~
+ASG  ALA -   75   75    T          Turn    360.00      5.13     108.2      ~~~~
+ASG  THR -   76   76    T          Turn      3.30    360.00      61.9      ~~~~
+ASG  GLY -   77   77    T          Turn    360.00    129.05      48.5      ~~~~
+ASG  PRO -   78   78    T          Turn     88.16     84.20     134.9      ~~~~
+ASG  ASN -   79   79    T          Turn    153.88      0.08      99.8      ~~~~
+ASG  ASN -   80   80    T          Turn      0.08    360.00     103.6      ~~~~
+ASG  ASP -   81   81    T          Turn    360.00    360.00      77.6      ~~~~
+ASG  GLU -   82   82    T          Turn    360.00      0.08      47.4      ~~~~
+ASG  GLU -   83   83    T          Turn      0.08    -76.21      66.9      ~~~~
+ASG  SER -   84   84    T          Turn   -108.76    360.00      56.9      ~~~~
+ASG  THR -   85   85    T          Turn    360.00    360.00      43.3      ~~~~
+ASG  LYS -   86   86    T          Turn    360.00    360.00     175.2      ~~~~
+ASG  LYS -   87   87    T          Turn    360.00    360.00     151.3      ~~~~
+ASG  LEU -   88   88    T          Turn    360.00     -0.08     125.3      ~~~~
+ASG  LEU -   89   89    T          Turn     -0.08    360.00      77.0      ~~~~
+ASG  GLU -   90   90    T          Turn    360.00     80.91      52.9      ~~~~
+ASG  GLN -   91   91    T          Turn     11.44    360.00     103.0      ~~~~
+ASG  ALA -   92   92    T          Turn    360.00    -67.27      51.3      ~~~~
+ASG  VAL -   93   93    T          Turn    -78.69    360.00      34.7      ~~~~
+ASG  LYS -   94   94    T          Turn    360.00    360.00     112.6      ~~~~
+ASG  THR -   95   95    T          Turn    360.00    -57.48     100.8      ~~~~
+ASG  MET -   96   96    T          Turn    -92.45    360.00     165.0      ~~~~
+ASG  GLN -   97   97    T          Turn    360.00    360.00     108.9      ~~~~
+ASG  LYS -   98   98    T          Turn    360.00    360.00     134.3      ~~~~
+ASG  LEU -   99   99    T          Turn    360.00    360.00     105.0      ~~~~
+ASG  GLY -  100  100    T          Turn    360.00    -85.31      45.7      ~~~~
+ASG  ASP -  101  101    T          Turn     62.28    360.00      80.4      ~~~~
+ASG  ILE -  102  102    T          Turn    360.00    360.00     124.7      ~~~~
+ASG  ALA -  103  103    T          Turn    360.00    -19.10      88.2      ~~~~
+ASG  TYR -  104  104    T          Turn    134.21    360.00     166.0      ~~~~
+ASG  ILE -  105  105    T          Turn    360.00    360.00      74.2      ~~~~
+ASG  ALA -  106  106    T          Turn    360.00    360.00     105.8      ~~~~
+ASG  TRP -  107  107    T          Turn    360.00    360.00     335.4      ~~~~
+ASG  ALA -  108  108    T          Turn    360.00      5.13      58.9      ~~~~
+ASG  THR -  109  109    T          Turn      3.30    -27.60      40.3      ~~~~
+ASG  ASP -  110  110    T          Turn     -0.31    360.00      33.9      ~~~~
+ASG  LEU -  111  111    T          Turn    360.00    360.00      74.0      ~~~~
+ASG  ALA -  112  112    T          Turn    360.00    360.00      53.1      ~~~~
+ASG  TRP -  113  113    T          Turn    360.00    360.00     164.0      ~~~~
+ASG  GLY -  114  114    T          Turn    360.00    -15.59      14.2      ~~~~
+ASG  ALA -  115  115    T          Turn      5.23    360.00     101.2      ~~~~
+ASG  GLN -  116  116    T          Turn    360.00    360.00     148.7      ~~~~
+ASG  GLY -  117  117    T          Turn    360.00    -15.59      40.7      ~~~~
+ASG  ALA -  118  118    T          Turn      5.23    360.00      91.6      ~~~~
+ASG  GLY -  119  119    T          Turn    360.00    -26.20      43.1      ~~~~
+ASG  SER -  120  120    T          Turn      4.09    -71.14      60.5      ~~~~
+ASG  VAL -  121  121    T          Turn    -70.16     10.28      25.5      ~~~~
+ASG  ILE -  122  122    T          Turn     13.52    360.00      70.6      ~~~~
+ASG  CYS -  123  123    T          Turn    360.00    360.00      34.7      ~~~~
+ASG  LEU -  124  124    T          Turn    360.00    360.00      71.2      ~~~~
+ASG  ALA -  125  125    T          Turn    360.00    360.00      78.8      ~~~~
+ASG  ALA -  126  126    T          Turn    360.00    360.00      90.0      ~~~~
+ASG  ASN -  127  127    T          Turn    360.00    360.00      60.3      ~~~~
+ASG  GLY -  128  128    T          Turn    360.00    360.00      11.8      ~~~~
+ASG  LEU -  129  129    T          Turn    360.00    360.00      69.2      ~~~~
+ASG  ALA -  130  130    T          Turn    360.00    -81.17      23.7      ~~~~
+ASG  ILE -  131  131    T          Turn   -114.66    360.00      59.7      ~~~~
+ASG  ALA -  132  132    T          Turn    360.00    -81.17      37.5      ~~~~
+ASG  ILE -  133  133    T          Turn   -114.66    360.00     115.5      ~~~~
+ASG  LYS -  134  134    T          Turn    360.00    360.00     130.7      ~~~~
+ASG  THR -  135  135    T          Turn    360.00    360.00      51.7      ~~~~
+ASG  GLY -  136  136    T          Turn    360.00    -85.31      21.6      ~~~~
+ASG  ASP -  137  137    T          Turn     62.28    360.00      61.1      ~~~~
+ASG  GLY -  138  138    T          Turn    360.00    360.00      22.4      ~~~~
+ASG  HIS -  139  139    T          Turn    360.00    360.00      55.0      ~~~~
+ASG  ASP -  140  140    T          Turn    360.00    360.00      74.6      ~~~~
+ASG  ALA -  141  141    T          Turn    360.00    -19.10      27.9      ~~~~
+ASG  TYR -  142  142    T          Turn    134.21    360.00     300.3      ~~~~
+ASG  ASP -  143  143    T          Turn    360.00    360.00      46.3      ~~~~
+ASG  LEU -  144  144    T          Turn    360.00     54.60      89.8      ~~~~
+ASG  PRO -  145  145    T          Turn   -165.72   -132.85      25.6      ~~~~
+ASG  SER -  146  146    T          Turn     95.83    -71.14      20.6      ~~~~
+ASG  VAL -  147  147    T          Turn    -70.16    360.00      11.6      ~~~~
+ASG  GLY -  148  148    T          Turn    360.00      0.08       8.0      ~~~~
+ASG  GLY -  149  149    T          Turn      0.08      0.08       7.2      ~~~~
+ASG  GLY -  150  150    T          Turn      0.08    360.00       7.4      ~~~~
+ASG  HIS -  151  151    T          Turn    360.00    360.00     122.4      ~~~~
+ASG  ASP -  152  152    T          Turn    360.00    360.00      16.2      ~~~~
+ASG  GLY -  153  153    T          Turn    360.00    -85.31       3.2      ~~~~
+ASG  ASP -  154  154    T          Turn     62.28    360.00      50.7      ~~~~
+ASG  LYS -  155  155    T          Turn    360.00    360.00     163.5      ~~~~
+ASG  GLU -  156  156    T          Turn    360.00    -76.21      81.9      ~~~~
+ASG  SER -  157  157    T          Turn   -108.76    360.00      10.4      ~~~~
+ASG  ASN -  158  158    T          Turn    360.00    108.93      27.0      ~~~~
+ASG  PRO -  159  159    T          Turn    176.94     84.20      46.1      ~~~~
+ASG  ASN -  160  160    T          Turn    153.88    360.00     102.4      ~~~~
+ASG  ILE -  161  161    T          Turn    360.00    360.00     142.9      ~~~~
+ASG  GLU -  162  162    T          Turn    360.00    360.00      93.5      ~~~~
+ASG  LEU -  163  163    T          Turn    360.00    360.00     121.5      ~~~~
+ASG  ALA -  164  164    T          Turn    360.00    360.00      99.6      ~~~~
+ASG  LYS -  165  165    T          Turn    360.00    360.00     108.0      ~~~~
+ASG  ILE -  166  166    T          Turn    360.00    -64.99      89.4      ~~~~
+ASG  LEU -  167  167    T          Turn    -91.61   -109.83      38.1      ~~~~
+ASG  LYS -  168  168    T          Turn   -139.17    360.00     138.3      ~~~~
+ASG  ILE -  169  169    T          Turn    360.00    360.00      68.5      ~~~~
+ASG  ALA -  170  170    T          Turn    360.00      5.13       5.4      ~~~~
+ASG  THR -  171  171    T          Turn      3.30    -78.33      21.2      ~~~~
+ASG  VAL -  172  172    T          Turn    -81.90     10.28      22.0      ~~~~
+ASG  ILE -  173  173    T          Turn     13.52    360.00      51.9      ~~~~
+ASG  THR -  174  174    T          Turn    360.00     -4.19      20.0      ~~~~
+ASG  SER -  175  175    T          Turn     -4.92    -19.11      98.6      ~~~~
+ASG  ASP -  176  176    T          Turn     13.51    360.00      42.9      ~~~~
+ASG  THR -  177  177    T          Turn    360.00     -0.08      79.8      ~~~~
+ASG  THR -  178  178    T          Turn     -0.08    -78.33      91.4      ~~~~
+ASG  VAL -  179  179    T          Turn    -81.90      0.08      57.5      ~~~~
+ASG  VAL -  180  180    T          Turn      0.08    360.00      28.3      ~~~~
+ASG  GLY -  181  181    T          Turn    360.00    -85.31      19.6      ~~~~
+ASG  ASP -  182  182    T          Turn     62.28    360.00     105.8      ~~~~
+ASG  GLN -  183  183    T          Turn    360.00    360.00     128.3      ~~~~
+ASG  SER -  184  184    T          Turn    360.00    -83.90      88.8      ~~~~
+ASG  ILE -  185  185    T          Turn    -90.57    360.00      68.7      ~~~~
+ASG  GLY -  186  186    T          Turn    360.00    -15.59      25.3      ~~~~
+ASG  ALA -  187  187    T          Turn      5.23    -18.26      58.1      ~~~~
+ASG  ASP -  188  188    T          Turn     33.91    360.00     101.2      ~~~~
+ASG  LEU -  189  189    T          Turn    360.00    360.00     102.0      ~~~~
+ASG  GLU -  190  190    T          Turn    360.00    -62.44      61.1      ~~~~
+ASG  ALA -  191  191    T          Turn    -94.57    360.00      67.1      ~~~~
+ASG  GLN -  192  192    T          Turn    360.00    360.00      88.2      ~~~~
+ASG  MET -  193  193    T          Turn    360.00    360.00     142.0      ~~~~
+ASG  GLU -  194  194    T          Turn    360.00    360.00      84.1      ~~~~
+ASG  GLY -  195  195    T          Turn    360.00    -29.99      22.0      ~~~~
+ASG  THR -  196  196    T          Turn     14.11    -27.60     100.4      ~~~~
+ASG  ASP -  197  197    T          Turn     -0.31    360.00      24.7      ~~~~
+ASG  SER -  198  198    T          Turn    360.00    360.00      32.5      ~~~~
+ASG  SER -  199  199    T          Turn    360.00    360.00      46.9      ~~~~
+ASG  THR -  200  200    T          Turn    360.00    360.00      58.3      ~~~~
+ASG  ASN -  201  201    T          Turn    360.00    360.00      80.5      ~~~~
+ASG  ALA -  202  202    T          Turn    360.00    360.00      66.1      ~~~~
+ASG  GLY -  203  203    T          Turn    360.00    360.00      20.6      ~~~~
+ASG  ASN -  204  204    T          Turn    360.00    360.00      58.9      ~~~~
+ASG  ARG -  205  205    T          Turn    360.00    360.00     184.1      ~~~~
+ASG  GLU -  206  206    T          Turn    360.00    360.00     110.8      ~~~~
+ASG  GLY -  207  207    T          Turn    360.00    360.00      35.5      ~~~~
+ASG  LYS -  208  208    T          Turn    360.00    360.00     112.0      ~~~~
+ASG  GLU -  209  209    T          Turn    360.00    360.00      76.7      ~~~~
+ASG  ILE -  210  210    T          Turn    360.00    360.00     141.3      ~~~~
+ASG  ALA -  211  211    T          Turn    360.00    360.00      72.2      ~~~~
+ASG  GLU -  212  212    T          Turn    360.00    360.00      75.5      ~~~~
+ASG  ASN -  213  213    T          Turn    360.00      0.08      70.9      ~~~~
+ASG  ASN -  214  214    T          Turn      0.08    360.00      72.7      ~~~~
+ASG  THR -  215  215    T          Turn    360.00    360.00     120.3      ~~~~
+ASG  LYS -  216  216    T          Turn    360.00    360.00     118.7      ~~~~
+ASG  LEU -  217  217    T          Turn    360.00    360.00      96.4      ~~~~
+ASG  SER -  218  218    T          Turn    360.00    360.00     101.0      ~~~~
+ASG  SER -  219  219    T          Turn    360.00    360.00      58.5      ~~~~
+ASG  GLU -  220  220    T          Turn    360.00    -76.21     119.8      ~~~~
+ASG  SER -  221  221    T          Turn   -108.76    360.00      52.3      ~~~~
+ASG  SER -  222  222    T          Turn    360.00    -19.11     102.6      ~~~~
+ASG  ASP -  223  223    T          Turn     13.51    360.00      56.9      ~~~~
+ASG  SER -  224  224    T          Turn    360.00    360.00      46.3      ~~~~
+ASG  GLY -  225  225    T          Turn    360.00    360.00      19.4      ~~~~
+ASG  ASN -  226  226    T          Turn    360.00    -47.14      34.0      ~~~~
+ASG  LYS -  227  227    T          Turn   -117.25    360.00     152.5      ~~~~
+ASG  LYS -  228  228    T          Turn    360.00    360.00      98.4      ~~~~
+ASG  SER -  229  229    T          Turn    360.00    360.00      22.2      ~~~~
+ASG  GLY -  230  230    T          Turn    360.00    -14.84      15.6      ~~~~
+ASG  CYS -  231  231    T          Turn    166.29    360.00      29.5      ~~~~
+ASG  ILE -  232  232    T          Turn    360.00    360.00      72.2      ~~~~
+ASG  ALA -  233  233    T          Turn    360.00    360.00      44.9      ~~~~
+ASG  LYS -  234  234    T          Turn    360.00    360.00     136.1      ~~~~
+ASG  VAL -  235  235    T          Turn    360.00    360.00      35.5      ~~~~
+ASG  SER -  236  236    T          Turn    360.00    -19.11      68.5      ~~~~
+ASG  ASP -  237  237    T          Turn     13.51    360.00      37.9      ~~~~
+ASG  SER -  238  238    T          Turn    360.00    360.00     104.6      ~~~~
+ASG  THR -  239  239    T          Turn    360.00     -0.08      71.4      ~~~~
+ASG  THR -  240  240    T          Turn     -0.08    360.00      58.9      ~~~~
+ASG  ALA -  241  241    T          Turn    360.00    360.00      69.4      ~~~~
+ASG  LEU -  242  242    T          Turn    360.00     -0.08      73.4      ~~~~
+ASG  LEU -  243  243    T          Turn     -0.08    360.00      82.0      ~~~~
+ASG  TYR -  244  244    T          Turn    360.00    360.00     174.6      ~~~~
+ASG  ALA -  245  245    T          Turn    360.00    360.00      13.4      ~~~~
+ASG  PHE -  246  246    T          Turn    360.00    147.50      84.1      ~~~~
+ASG  SER -  247  247    T          Turn   -132.93    360.00      35.1      ~~~~
+ASG  ALA -  248  248    T          Turn    360.00    360.00      12.6      ~~~~
+ASG  GLY -  249  249    T          Turn    360.00      0.08      19.2      ~~~~
+ASG  GLY -  250  250    T          Turn      0.08    -15.59       2.6      ~~~~
+ASG  ALA -  251  251    T          Turn      5.23    -18.26      12.2      ~~~~
+ASG  ASP -  252  252    T          Turn     33.91    360.00      29.3      ~~~~
+ASG  MET -  253  253    T          Turn    360.00    360.00      83.2      ~~~~
+ASG  ALA -  254  254    T          Turn    360.00    -18.26      69.6      ~~~~
+ASG  ASP -  255  255    T          Turn     33.91     -0.08      54.7      ~~~~
+ASG  ASP -  256  256    T          Turn     -0.08    360.00      59.9      ~~~~
+ASG  ASN -  257  257    T          Turn    360.00    360.00     109.0      ~~~~
+ASG  ALA -  258  258    T          Turn    360.00    360.00     104.6      ~~~~
+ASG  ALA -  259  259    T          Turn    360.00    360.00     110.0      ~~~~
+ASG  ASN -  260  260    T          Turn    360.00    360.00     134.2      ~~~~
+ASG  ALA -  261  261    T          Turn    360.00    -18.26      70.0      ~~~~
+ASG  ASP -  262  262    T          Turn     33.91    360.00      68.7      ~~~~
+ASG  GLU -  263  263    T          Turn    360.00      0.08      78.1      ~~~~
+ASG  GLU -  264  264    T          Turn      0.08      0.08      80.1      ~~~~
+ASG  GLU -  265  265    T          Turn      0.08     90.85     103.4      ~~~~
+ASG  LYS -  266  266    T          Turn     17.61    360.00     136.7      ~~~~
+ASG  LYS -  267  267    T          Turn    360.00    360.00     119.1      ~~~~
+ASG  LYS -  268  268    T          Turn    360.00    360.00     147.9      ~~~~
+ASG  TRP -  269  269    T          Turn    360.00    360.00     262.6      ~~~~
+ASG  ARG -  270  270    T          Turn    360.00   -124.86     122.8      ~~~~
+ASG  LYS -  271  271    T          Turn   -153.74    360.00     133.9      ~~~~
+ASG  THR -  272  272    T          Turn    360.00    360.00      10.4      ~~~~
+ASG  ALA -  273  273    T          Turn    360.00      5.13       5.2      ~~~~
+ASG  THR -  274  274    T          Turn      3.30    360.00      21.0      ~~~~
+ASG  LYS -  275  275    T          Turn    360.00   -120.32     128.5      ~~~~
+ASG  PHE -  276  276    T          Turn     44.47    360.00     120.4      ~~~~
+ASG  ARG -  277  277    T          Turn    360.00     -0.08     132.0      ~~~~
+ASG  ARG -  278  278    T          Turn      0.08    360.00     153.6      ~~~~
+ASG  ILE -  279  279    T          Turn    360.00    360.00     117.5      ~~~~
+ASG  GLY -  280  280    T          Turn    360.00    -15.59      33.1      ~~~~
+ASG  ALA -  281  281    T          Turn      5.23    -18.26       8.6      ~~~~
+ASG  ASP -  282  282    T          Turn     33.91    360.00      29.3      ~~~~
+ASG  MET -  283  283    T          Turn    360.00    360.00      52.2      ~~~~
+ASG  GLU -  284  284    T          Turn    360.00    360.00      41.2      ~~~~
+ASG  GLY -  285  285    T          Turn    360.00    -91.46       4.6      ~~~~
+ASG  TYR -  286  286    T          Turn    147.44    360.00      79.0      ~~~~
+ASG  ALA -  287  287    T          Turn    360.00    360.00       8.2      ~~~~
+ASG  ASN -  288  288    T          Turn    360.00    360.00      17.2      ~~~~
+ASG  SER -  289  289    T          Turn    360.00     35.84      32.5      ~~~~
+ASG  CYS -  290  290    T          Turn    165.18    360.00      87.8      ~~~~
+ASG  LEU -  291  291    T          Turn    360.00   -120.71      52.9      ~~~~
+ASG  GLN -  292  292    T          Turn   -139.37    360.00     147.9      ~~~~
+ASG  PRO -  293  293    T          Turn    360.00    -80.38      72.3      ~~~~
+ASG  ASP -  294  294    T          Turn     96.80    360.00      84.0      ~~~~
+ASG  LYS -  295  295    T          Turn    360.00    360.00     100.4      ~~~~
+ASG  HIS -  296  296    T          Turn    360.00    360.00     123.4      ~~~~
+ASG  SER -  297  297    T          Turn    360.00    -19.11      87.8      ~~~~
+ASG  ASP -  298  298    T          Turn     13.51    360.00      77.8      ~~~~
+ASG  ASN -  299  299    T          Turn    360.00    360.00     104.6      ~~~~
+ASG  SER -  300  300    T          Turn    360.00   -166.58      96.6      ~~~~
+ASG  PRO -  301  301    T          Turn     82.97    -80.38      49.1      ~~~~
+ASG  ASP -  302  302    T          Turn     96.80    360.00       4.2      ~~~~
+ASG  GLY -  303  303    T          Turn    360.00    -29.99       6.4      ~~~~
+ASG  THR -  304  304    T          Turn     14.11    360.00      61.3      ~~~~
+ASG  GLU -  305  305    T          Turn    360.00    -74.16     106.6      ~~~~
+ASG  THR -  306  306    T          Turn   -112.77    -27.60      76.0      ~~~~
+ASG  ASP -  307  307    T          Turn     -0.31    360.00      82.0      ~~~~
+ASG  SER -  308  308    T          Turn    360.00    360.00     112.4      ~~~~
+ASG  GLY -  309  309    T          Turn    360.00    -85.31      18.0      ~~~~
+ASG  ASP -  310  310    T          Turn     62.28    360.00      30.9      ~~~~
+ASG  ARG -  311  311    T          Turn    360.00    360.00     207.5      ~~~~
+ASG  THR -  312  312    T          Turn    360.00    360.00      64.9      ~~~~
+ASG  ASN -  313  313    T          Turn    360.00    360.00     124.0      ~~~~
+ASG  MET -  314  314    T          Turn    360.00   -104.28      69.6      ~~~~
+ASG  LEU -  315  315    T          Turn   -117.15    360.00      85.8      ~~~~
+ASG  PHE -  316  316    T          Turn    360.00    137.87     221.0      ~~~~
+ASG  THR -  317  317    T          Turn   -137.35    360.00      12.6      ~~~~
+ASG  GLY -  318  318    T          Turn    360.00    360.00      12.4      ~~~~
+ASG  PHE -  319  319    T          Turn    360.00    132.97      48.8      ~~~~
+ASG  GLU -  320  320    T          Turn     -3.59    -74.16      37.2      ~~~~
+ASG  THR -  321  321    T          Turn   -112.77    360.00      20.6      ~~~~
+ASG  ALA -  322  322    T          Turn    360.00      2.39      34.3      ~~~~
+ASG  SER -  323  323    T          Turn     -3.72    360.00       6.0      ~~~~
+ASG  GLU -  324  324    T          Turn    360.00    -76.21      51.9      ~~~~
+ASG  SER -  325  325    T          Turn   -108.76    360.00      47.5      ~~~~
+ASG  ALA -  326  326    T          Turn    360.00    360.00      34.7      ~~~~
+ASG  HIS -  327  327    T          Turn    360.00    360.00      59.4      ~~~~
+ASG  ASP -  328  328    T          Turn    360.00    360.00      25.3      ~~~~
+ASG  ALA -  329  329    T          Turn    360.00    360.00       9.6      ~~~~
+ASG  ALA -  330  330    T          Turn    360.00    360.00      65.7      ~~~~
+ASG  GLN -  331  331    T          Turn    360.00    360.00      57.1      ~~~~
+ASG  TYR -  332  332    T          Turn    360.00    360.00     175.6      ~~~~
+ASG  ALA -  333  333    T          Turn    360.00    360.00      27.5      ~~~~
+ASG  ASN -  334  334    T          Turn    360.00    -47.14      42.0      ~~~~
+ASG  LYS -  335  335    T          Turn   -117.25    360.00     137.1      ~~~~
+ASG  LEU -  336  336    T          Turn    360.00     -0.08     105.2      ~~~~
+ASG  LEU -  337  337    T          Turn     -0.08     -0.08     102.6      ~~~~
+ASG  LEU -  338  338    T          Turn     -0.08   -109.83      72.4      ~~~~
+ASG  LYS -  339  339    T          Turn   -139.17    360.00     170.6      ~~~~
+ASG  ALA -  340  340    T          Turn    360.00      2.39      73.4      ~~~~
+ASG  SER -  341  341    T          Turn     -3.72    360.00      52.5      ~~~~
+ASG  THR -  342  342    T          Turn    360.00    360.00      55.5      ~~~~
+ASG  LEU -  343  343    T          Turn    360.00   -120.71     117.1      ~~~~
+ASG  GLN -  344  344    T          Turn   -139.37    360.00      71.0      ~~~~
+ASG  PRO -  345  345    T          Turn    360.00    -31.59      62.5      ~~~~
+ASG  ILE -  346  346    T          Turn    122.22    360.00      66.5      ~~~~
+ASG  SER -  347  347    T          Turn    360.00    360.00      33.5      ~~~~
+ASG  THR -  348  348    T          Turn    360.00     -4.19      16.4      ~~~~
+ASG  SER -  349  349    T          Turn     -4.92    360.00      34.1      ~~~~
+ASG  THR -  350  350    T          Turn    360.00     -4.19      32.5      ~~~~
+ASG  SER -  351  351    T          Turn     -4.92    360.00      41.3      ~~~~
+ASG  LEU -  352  352    T          Turn    360.00    360.00     116.1      ~~~~
+ASG  ILE -  353  353    T          Turn    360.00    360.00      75.6      ~~~~
+ASG  GLY -  354  354    T          Turn    360.00    -15.59      44.5      ~~~~
+ASG  ALA -  355  355    T          Turn      5.23    360.00      26.1      ~~~~
+ASG  LEU -  356  356    T          Turn    360.00    360.00      73.4      ~~~~
+ASG  VAL -  357  357    T          Turn    360.00    -65.40      47.5      ~~~~
+ASG  LEU -  358  358    T          Turn   -117.88    360.00      84.4      ~~~~
+ASG  ALA -  359  359    T          Turn    360.00    -19.10      52.3      ~~~~
+ASG  TYR -  360  360    T          Turn    134.21    360.00     212.9      ~~~~
+ASG  TYR -  361  361    T          Turn    360.00    360.00     247.8      ~~~~
+ASG  SER -  362  362    T          Turn    360.00    360.00      44.7      ~~~~
+ASG  GLY -  363  363    T          Turn    360.00    360.00      73.2      ~~~~
+ASG  LEU -  364  364    T          Turn    360.00    360.00      95.8      ~~~~
+ASG  GLY -  365  365    T          Turn    360.00      0.08      43.5      ~~~~
+ASG  GLY -  366  366    T          Turn      0.08    -29.99      48.5      ~~~~
+ASG  THR -  367  367    T          Turn     14.11    360.00      77.2      ~~~~
+ASG  LEU -  368  368    T          Turn    360.00     -0.08      17.2      ~~~~
+ASG  LEU -  369  369    T          Turn     -0.08     -0.08      48.5      ~~~~
+ASG  LEU -  370  370    T          Turn     -0.08    360.00      55.5      ~~~~
+ASG  ARG -  371  371    T          Turn    360.00   -124.86     185.1      ~~~~
+ASG  LYS -  372  372    T          Turn   -153.74    360.00     180.2      ~~~~
+ASG  LEU -  373  373    T          Turn    360.00    360.00      87.2      ~~~~
+ASG  ALA -  374  374    T          Turn    360.00      2.39      37.7      ~~~~
+ASG  SER -  375  375    T          Turn     -3.72    360.00      94.6      ~~~~
+ASG  GLN -  376  376    T          Turn    360.00    360.00     150.1      ~~~~
+ASG  SER -  377  377    T          Turn    360.00    -83.90      91.4      ~~~~
+ASG  ILE -  378  378    T          Turn    -90.57    360.00     150.5      ~~~~
+ASG  GLN -  379  379    T          Turn    360.00    360.00     130.9      ~~~~
+ASG  SER -  380  380    T          Turn    360.00    360.00      51.5      ~~~~
+ASG  PHE -  381  381    T          Turn    360.00    360.00     201.7      ~~~~
+ASG  ASP -  382  382    T          Turn    360.00    360.00      82.2      ~~~~
+ASG  GLU -  383  383    T          Turn    360.00    360.00     101.6      ~~~~
+ASG  GLY -  384  384    T          Turn    360.00   -138.41      12.4      ~~~~
+ASG  ILE -  385  385    T          Turn   -153.64    360.00      96.8      ~~~~
+ASG  ALA -  386  386    T          Turn    360.00    360.00      73.2      ~~~~
+ASG  GLU -  387  387    T          Turn    360.00    -76.21     126.8      ~~~~
+ASG  SER -  388  388    T          Turn   -108.76    360.00      32.7      ~~~~
+ASG  LYS -  389  389    T          Turn    360.00    360.00     173.2      ~~~~
+ASG  GLY -  390  390    T          Turn    360.00    -15.59      27.7      ~~~~
+ASG  ALA -  391  391    T          Turn      5.23      5.13      25.1      ~~~~
+ASG  THR -  392  392    T          Turn      3.30    360.00      39.7      ~~~~
+ASG  ALA -  393  393    T          Turn    360.00      2.39      28.3      ~~~~
+ASG  SER -  394  394    T          Turn     -3.72    -19.11      14.6      ~~~~
+ASG  ASP -  395  395    T          Turn     13.51    360.00      48.9      ~~~~
+ASG  ILE -  396  396    T          Turn    360.00    360.00      35.1      ~~~~
+ASG  LYS -  397  397    T          Turn    360.00    360.00     180.2      ~~~~
+ASG  ALA -  398  398    T          Turn    360.00    360.00      41.3      ~~~~
+ASG  GLU -  399  399    T          Turn    360.00      0.08      99.0      ~~~~
+ASG  GLU -  400  400    T          Turn      0.08    360.00      74.7      ~~~~
+ASG  VAL -  401  401    T          Turn    360.00    360.00      60.3      ~~~~
+ASG  PHE -  402  402    T          Turn    360.00   -121.17     162.9      ~~~~
+ASG  GLN -  403  403    T          Turn     39.72    360.00     109.7      ~~~~
+ASG  SER -  404  404    T          Turn    360.00    360.00     133.3      ~~~~
+ASG  SER -  405  405    T          Turn    360.00    360.00      68.3      ~~~~
+ASG  GLY -  406  406    T          Turn    360.00      0.08      76.2      ~~~~
+ASG  GLY -  407  407    T          Turn      0.08   -138.41      57.1      ~~~~
+ASG  ILE -  408  408    T          Turn   -153.64    360.00     143.9      ~~~~
+ASG  THR -  409  409    T          Turn    360.00    360.00      96.8      ~~~~
+ASG  GLY -  410  410    T          Turn    360.00    360.00      50.9      ~~~~
+ASG  HIS -  411  411    T          Turn    360.00    130.68     184.5      ~~~~
+ASG  LEU -  412  412    T          Turn     -1.17    -61.47     126.3      ~~~~
+ASG  ASN -  413  413    T          Turn    -23.69    360.00     115.4      ~~~~
+ASG  GLY -  414  414    T          Turn    360.00    -26.20      48.9      ~~~~
+ASG  SER -  415  415    T          Turn      4.09    360.00     107.6      ~~~~
+ASG  ASN -  416  416    T          Turn    360.00      0.08     117.6      ~~~~
+ASG  ASN -  417  417    T          Turn      0.08    360.00      71.7      ~~~~
+ASG  ALA -  418  418    T          Turn    360.00    360.00     115.5      ~~~~
+ASG  GLY -  419  419    T          Turn    360.00    -29.99      42.1      ~~~~
+ASG  THR -  420  420    T          Turn     14.11     -4.19      78.6      ~~~~
+ASG  SER -  421  421    T          Turn     -4.92    360.00      27.5      ~~~~
+ASG  ALA -  422  422    T          Turn    360.00    360.00      17.6      ~~~~
+ASG  GLY -  423  423    T          Turn    360.00      0.08       8.2      ~~~~
+ASG  GLY -  424  424    T          Turn      0.08   -113.64       5.8      ~~~~
+ASG  MET -  425  425    T          Turn    161.66    360.00      84.2      ~~~~
+ASG  GLY -  426  426    T          Turn    360.00    -29.99      25.3      ~~~~
+ASG  THR -  427  427    T          Turn     14.11    360.00      77.4      ~~~~
+ASG  LYS -  428  428    T          Turn    360.00    360.00     149.9      ~~~~
+ASG  TYR -  429  429    T          Turn    360.00    360.00     139.9      ~~~~
+ASG  GLY -  430  430    T          Turn    360.00      0.08      44.9      ~~~~
+ASG  GLY -  431  431    T          Turn      0.08      0.08      47.1      ~~~~
+ASG  GLY -  432  432    T          Turn      0.08    -15.59       8.2      ~~~~
+ASG  ALA -  433  433    T          Turn      5.23      2.39       7.8      ~~~~
+ASG  SER -  434  434    T          Turn     -3.72    360.00      47.3      ~~~~
+ASG  ALA -  435  435    T          Turn    360.00    360.00      87.8      ~~~~
+ASG  GLU -  436  436    T          Turn    360.00    360.00     112.2      ~~~~
+ASG  LEU -  437  437    T          Turn    360.00    360.00      52.5      ~~~~
+ASG  VAL -  438  438    T          Turn    360.00    -65.40      51.9      ~~~~
+ASG  LEU -  439  439    T          Turn   -117.88    360.00      34.9      ~~~~
+ASG  GLY -  440  440    T          Turn    360.00      0.08      13.0      ~~~~
+ASG  GLY -  441  441    T          Turn      0.08    360.00      28.5      ~~~~
+ASG  GLU -  442  442    T          Turn    360.00      0.08     113.0      ~~~~
+ASG  GLU -  443  443    T          Turn      0.08    360.00      90.5      ~~~~
+ASG  ASN -  444  444    T          Turn    360.00    360.00      94.8      ~~~~
+ASG  THR -  445  445    T          Turn    360.00     -4.19      68.3      ~~~~
+ASG  SER -  446  446    T          Turn     -4.92    360.00      24.1      ~~~~
+ASG  ALA -  447  447    T          Turn    360.00     36.34      78.2      ~~~~
+ASG  CYS -  448  448    T          Turn    158.40     39.91      20.0      ~~~~
+ASG  ALA -  449  449    T          Turn    164.66    360.00      31.3      ~~~~
+ASG  ALA -  450  450    T          Turn    360.00    360.00      53.9      ~~~~
+ASG  ALA -  451  451    T          Turn    360.00    360.00      58.3      ~~~~
+ASG  PHE -  452  452    T          Turn    360.00    147.49     155.2      ~~~~
+ASG  ALA -  453  453    T          Turn   -115.78    360.00      54.9      ~~~~
+ASG  LEU -  454  454    T          Turn    360.00    360.00      48.7      ~~~~
+ASG  GLU -  455  455    T          Turn    360.00      0.08      68.1      ~~~~
+ASG  GLU -  456  456    T          Turn      0.08    360.00      51.7      ~~~~
+ASG  GLY -  457  457    T          Turn    360.00    -15.59      12.8      ~~~~
+ASG  ALA -  458  458    T          Turn      5.23    360.00       7.0      ~~~~
+ASG  ALA -  459  459    T          Turn    360.00    360.00      39.9      ~~~~
+ASG  GLY -  460  460    T          Turn    360.00      0.08      18.2      ~~~~
+ASG  GLY -  461  461    T          Turn      0.08    360.00      23.1      ~~~~
+ASG  LEU -  462  462    T          Turn    360.00   -109.83      48.5      ~~~~
+ASG  LYS -  463  463    T          Turn   -139.17    360.00     129.7      ~~~~
+ASG  ALA -  464  464    T          Turn    360.00    360.00      37.5      ~~~~
+ASG  GLN -  465  465    T          Turn    360.00    360.00      97.8      ~~~~
+ASG  ALA -  466  466    T          Turn    360.00    360.00      34.5      ~~~~
+ASG  ALA -  467  467    T          Turn    360.00    -81.17      30.1      ~~~~
+ASG  ILE -  468  468    T          Turn   -114.66    360.00      73.6      ~~~~
+ASG  CYS -  469  469    T          Turn    360.00     39.91       9.0      ~~~~
+ASG  ALA -  470  470    T          Turn    164.66    360.00      33.5      ~~~~
+ASG  LYS -  471  471    T          Turn    360.00    360.00     119.5      ~~~~
+ASG  GLU -  472  472    T          Turn    360.00    -62.44      78.7      ~~~~
+ASG  ALA -  473  473    T          Turn    -94.57    360.00      96.6      ~~~~
+ASG  ALA -  474  474    T          Turn    360.00      2.39      33.7      ~~~~
+ASG  SER -  475  475    T          Turn     -3.72   -166.58      64.7      ~~~~
+ASG  PRO -  476  476    T          Turn     82.97    360.00      61.7      ~~~~
+ASG  LYS -  477  477    T          Turn    360.00    360.00     118.5      ~~~~
+ASG  ALA -  478  478    T          Turn    360.00    360.00      17.4      ~~~~
+ASG  GLU -  479  479    T          Turn    360.00    -62.44     108.0      ~~~~
+ASG  ALA -  480  480    T          Turn    -94.57      5.13      98.8      ~~~~
+ASG  THR -  481  481    T          Turn      3.30    360.00      54.5      ~~~~
+ASG  ALA -  482  482    T          Turn    360.00      5.13     114.6      ~~~~
+ASG  THR -  483  483    T          Turn      3.30    360.00      56.7      ~~~~
+ASG  GLY -  484  484    T          Turn    360.00    360.00      29.5      ~~~~
+ASG  ASN -  485  485    T          Turn    360.00    360.00     114.0      ~~~~
+ASG  ALA -  486  486    T          Turn    360.00    360.00      58.7      ~~~~
+ASG  ALA -  487  487    T          Turn    360.00    360.00      77.4      ~~~~
+ASG  LYS -  488  488    T          Turn    360.00    360.00     133.7      ~~~~
+ASG  ASN -  489  489    T          Turn    360.00    360.00      46.7      ~~~~
+ASG  ASP -  490  490    T          Turn    360.00    360.00      32.5      ~~~~
+ASG  VAL -  491  491    T          Turn    360.00    -65.40      38.5      ~~~~
+ASG  LEU -  492  492    T          Turn   -117.88     -0.08      49.9      ~~~~
+ASG  LEU -  493  493    T          Turn     -0.08    360.00      52.5      ~~~~
+ASG  MET -  494  494    T          Turn    360.00    360.00      74.2      ~~~~
+ASG  VAL -  495  495    T          Turn    360.00    360.00      44.5      ~~~~
+ASG  GLY -  496  496    T          Turn    360.00    -29.99      23.5      ~~~~
+ASG  THR -  497  497    T          Turn     14.11    360.00      67.9      ~~~~
+ASG  LEU -  498  498    T          Turn    360.00   -109.83      39.5      ~~~~
+ASG  LYS -  499  499    T          Turn   -139.17    360.00     156.7      ~~~~
+ASG  LEU -  500  500    T          Turn    360.00    360.00      60.1      ~~~~
+ASG  ALA -  501  501    T          Turn    360.00      2.39      30.7      ~~~~
+ASG  SER -  502  502    T          Turn     -3.72    360.00      14.4      ~~~~
+ASG  THR -  503  503    T          Turn    360.00    360.00      42.9      ~~~~
+ASG  LYS -  504  504    T          Turn    360.00    360.00     124.5      ~~~~
+ASG  GLY -  505  505    T          Turn    360.00   -138.41      34.7      ~~~~
+ASG  ILE -  506  506    T          Turn   -153.64    360.00      89.4      ~~~~
+ASG  GLY -  507  507    T          Turn    360.00    360.00       5.2      ~~~~
+ASG  LEU -  508  508    T          Turn    360.00    360.00      70.8      ~~~~
+ASG  ILE -  509  509    T          Turn    360.00    360.00     103.4      ~~~~
+ASG  LYS -  510  510    T          Turn    360.00    360.00     134.1      ~~~~
+ASG  ALA -  511  511    T          Turn    360.00      2.39      31.9      ~~~~
+ASG  SER -  512  512    T          Turn     -3.72    360.00      33.3      ~~~~
+ASG  ARG -  513  513    T          Turn    360.00    360.00     179.9      ~~~~
+ASG  GLY -  514  514    T          Turn    360.00    360.00      19.8      ~~~~
+ASG  ASN -  515  515    T          Turn    360.00    360.00      21.6      ~~~~
+ASG  MET -  516  516    T          Turn    360.00    360.00      97.5      ~~~~
+ASG  ARG -  517  517    T          Turn    360.00    360.00     151.4      ~~~~
+ASG  GLY -  518  518    T          Turn    360.00   -113.64      27.3      ~~~~
+ASG  MET -  519  519    T          Turn    161.66    360.00     133.6      ~~~~
+ASG  THR -  520  520    T          Turn    360.00    -78.33      96.6      ~~~~
+ASG  VAL -  521  521    T          Turn    -81.90    360.00      90.0      ~~~~
+ASG  ALA -  522  522    T          Turn    360.00    360.00     103.0      ~~~~
+ASG  GLY -  523  523    T          Turn    360.00      0.08      70.4      ~~~~
+ASG  GLY -  524  524    T          Turn      0.08    -26.20      22.4      ~~~~
+ASG  SER -  525  525    T          Turn      4.09    360.00     109.0      ~~~~
+ASG  GLY -  526  526    T          Turn    360.00    360.00      58.3      ~~~~
+ASG  LYS -  527  527    T          Turn    360.00    360.00     203.0      ~~~~
+ASG  ASP -  528  528    T          Turn    360.00    360.00      57.5      ~~~~
+ASG  ASN -  529  529    T          Turn    360.00    360.00     120.2      ~~~~
+ASG  SER -  530  530    T          Turn    360.00    360.00      86.6      ~~~~
+ASG  GLN -  531  531    T          Turn    360.00    360.00     106.2      ~~~~
+ASG  GLU -  532  532    T          Turn    360.00    360.00      86.1      ~~~~
+ASG  PRO -  533  533    T          Turn    360.00    360.00      50.7      ~~~~
+ASG  LYS -  534  534    T          Turn    360.00    360.00     103.8      ~~~~
+ASG  GLY -  535  535    T          Turn    360.00    -29.99      15.0      ~~~~
+ASG  THR -  536  536    T          Turn     14.11    360.00      76.6      ~~~~
+ASG  GLU -  537  537    T          Turn    360.00    -76.21      92.7      ~~~~
+ASG  SER -  538  538    T          Turn   -108.76    360.00      79.0      ~~~~
+ASG  THR -  539  539    T          Turn    360.00    -26.84      68.7      ~~~~
+ASG  TYR -  540  540    T          Turn    115.37    360.00     146.3      ~~~~
+ASG  ARG -  541  541    T          Turn    360.00    360.00     174.5      ~~~~
+ASG  SER -  542  542    T          Turn    360.00    360.00      99.6      ~~~~
+ASG  SER -  543  543    T          Turn    360.00    -19.11      95.6      ~~~~
+ASG  ASP -  544  544    T          Turn     13.51    360.00      32.9      ~~~~
+ASG  LYS -  545  545    T          Turn    360.00    360.00     175.4      ~~~~
+ASG  LYS -  546  546    T          Turn    360.00    360.00     155.9      ~~~~
+ASG  LYS -  547  547    T          Turn    360.00    360.00      94.4      ~~~~
+ASG  SER -  548  548    T          Turn    360.00    360.00      36.3      ~~~~
+ASG  THR -  549  549    T          Turn    360.00    360.00      82.4      ~~~~
+ASG  LYS -  550  550    T          Turn    360.00    360.00     162.7      ~~~~
+ASG  LEU -  551  551    T          Turn    360.00    360.00      35.1      ~~~~
+ASG  GLY -  552  552    T          Turn    360.00    360.00       0.4      ~~~~
+ASG  GLN -  553  553    T          Turn    360.00    360.00      85.8      ~~~~
+ASG  GLU -  554  554    T          Turn    360.00    -74.16      37.4      ~~~~
+ASG  THR -  555  555    T          Turn   -112.77    360.00      79.4      ~~~~
+ASG  LEU -  556  556    T          Turn    360.00    360.00      47.9      ~~~~
+ASG  ASP -  557  557    T          Turn    360.00    360.00      32.1      ~~~~
+ASG  SER -  558  558    T          Turn    360.00    -19.11      83.8      ~~~~
+ASG  ASP -  559  559    T          Turn     13.51    360.00      77.6      ~~~~
+ASG  GLY -  560  560    T          Turn    360.00   -113.64      29.3      ~~~~
+ASG  MET -  561  561    T          Turn    161.66    360.00     124.5      ~~~~
+ASG  GLY -  562  562    T          Turn    360.00    -26.20      65.5      ~~~~
+ASG  SER -  563  563    T          Turn      4.09    360.00      79.6      ~~~~
+ASG  SER -  564  564    T          Turn    360.00    -19.11     103.6      ~~~~
+ASG  ASP -  565  565    T          Turn     13.51    360.00      46.5      ~~~~
+ASG  THR -  566  566    T          Turn    360.00    -27.60      92.6      ~~~~
+ASG  ASP -  567  567    T          Turn     -0.31    360.00      86.6      ~~~~
+ASG  VAL -  568  568    T          Turn    360.00    -65.40     101.0      ~~~~
+ASG  LEU -  569  569    T          Turn   -117.88    360.00     110.0      ~~~~
+ASG  GLU -  570  570    T          Turn    360.00    360.00      83.1      ~~~~
+ASG  ASP -  571  571    T          Turn    360.00     -0.08      31.1      ~~~~
+ASG  ASP -  572  572    T          Turn     -0.08    360.00      55.1      ~~~~
+ASG  ALA -  573  573    T          Turn    360.00    360.00      53.7      ~~~~
+ASG  ASN -  574  574    T          Turn    360.00    360.00      48.3      ~~~~
+ASG  ASP -  575  575    T          Turn    360.00    360.00      24.3      ~~~~
+ASG  GLU -  576  576    T          Turn    360.00    360.00     103.0      ~~~~
+ASG  ARG -  577  577    T          Turn    360.00    360.00     207.7      ~~~~
+ASG  VAL -  578  578    T          Turn    360.00    -65.40      92.8      ~~~~
+ASG  LEU -  579  579    T          Turn   -117.88    360.00      72.2      ~~~~
+ASG  GLY -  580  580    T          Turn    360.00      0.08      58.7      ~~~~
+ASG  GLY -  581  581    T          Turn      0.08    -15.59      61.1      ~~~~
+ASG  ALA -  582  582    T          Turn      5.23      5.13     122.9      ~~~~
+ASG  THR -  583  583    T          Turn      3.30    360.00      71.0      ~~~~
+ASG  GLN -  584  584    T          Turn    360.00    360.00     125.5      ~~~~
+ASG  THR -  585  585    T          Turn    360.00    360.00      93.6      ~~~~
+ASG  GLU -  586  586    T          Turn    360.00    360.00      76.3      ~~~~
+ASG  GLY -  587  587    T          Turn    360.00    -91.46      31.9      ~~~~
+ASG  TYR -  588  588    T          Turn    147.44    360.00     236.7      ~~~~
+ASG  LEU -  589  589    T          Turn    360.00   -120.71     113.6      ~~~~
+ASG  GLN -  590  590    T          Turn   -139.37    360.00     171.8      ~~~~
+ASG  ALA -  591  591    T          Turn    360.00    360.00     108.8      ~~~~
+ASG  LEU -  592  592    T          Turn    360.00    360.00      96.0      ~~~~
+ASG  THR -  593  593    T          Turn    360.00    360.00      70.8      ~~~~
+ASG  GLU -  594  594    T          Turn    360.00    -74.16      72.1      ~~~~
+ASG  THR -  595  595    T          Turn   -112.77    360.00      24.9      ~~~~
+ASG  ARG -  596  596    T          Turn    360.00   -160.07     153.8      ~~~~
+ASG  ASN -  597  597    T          Turn    -17.93    360.00     105.4      ~~~~
+ASG  ALA -  598  598    T          Turn    360.00   -159.92      64.9      ~~~~
+ASG  PRO -    1  599    T          Turn     90.31    360.00      68.9      ~~~~
+ASG  GLU -    2  600    T          Turn    360.00    360.00      73.1      ~~~~
+ASG  GLY -    3  601    T          Turn    360.00    -85.31      41.1      ~~~~
+ASG  ASP -    4  602    T          Turn     62.28    360.00      89.6      ~~~~
+ASG  LYS -    5  603    T          Turn    360.00    360.00     102.2      ~~~~
+ASG  LEU -    6  604    T          Turn    360.00    360.00      45.7      ~~~~
+ASG  ALA -    7  605    T          Turn    360.00      5.13      86.8      ~~~~
+ASG  THR -    8  606    T          Turn      3.30    360.00      89.6      ~~~~
+ASG  ALA -    9  607    T          Turn    360.00    360.00     111.0      ~~~~
+ASG  ALA -   10  608    T          Turn    360.00    360.00      46.7      ~~~~
+ASG  ALA -   11  609    T          Turn    360.00    360.00      22.6      ~~~~
+ASG  LEU -   12  610    T          Turn    360.00    360.00      62.9      ~~~~
+ASG  GLY -   13  611    T          Turn    360.00    360.00      31.5      ~~~~
+ASG  ASN -   14  612    T          Turn    360.00    360.00      42.2      ~~~~
+ASG  ILE -   15  613    T          Turn    360.00    360.00      27.7      ~~~~
+ASG  GLU -   16  614    T          Turn    360.00      0.08      51.7      ~~~~
+ASG  GLU -   17  615    T          Turn      0.08    360.00      71.3      ~~~~
+ASG  VAL -   18  616    T          Turn    360.00    360.00      12.8      ~~~~
+ASG  ARG -   19  617    T          Turn    360.00    360.00     133.2      ~~~~
+ASG  PHE -   20  618    T          Turn    360.00    360.00     156.8      ~~~~
+ASG  LEU -   21  619    T          Turn    360.00     -0.08      29.3      ~~~~
+ASG  LEU -   22  620    T          Turn     -0.08    360.00      78.0      ~~~~
+ASG  THR -   23  621    T          Turn    360.00    -78.33     100.2      ~~~~
+ASG  VAL -   24  622    T          Turn    -81.90    360.00      23.1      ~~~~
+ASG  GLU -   25  623    T          Turn    360.00     90.85      60.7      ~~~~
+ASG  LYS -   26  624    T          Turn     17.61    360.00     100.2      ~~~~
+ASG  VAL -   27  625    T          Turn    360.00   -146.83      75.0      ~~~~
+ASG  PRO -   28  626    T          Turn     18.20   -153.72     107.8      ~~~~
+ASG  ALA -   29  627    T          Turn     80.48    360.00      54.1      ~~~~
+ASG  GLN -   30  628    T          Turn    360.00    360.00     104.4      ~~~~
+ASG  ALA -   31  629    T          Turn    360.00    360.00     101.0      ~~~~
+ASG  LEU -   32  630    T          Turn    360.00    360.00      76.0      ~~~~
+ASG  CYS -   33  631    T          Turn    360.00   -146.94      30.5      ~~~~
+ASG  HIS -   34  632    T          Turn    144.62     20.13      65.0      ~~~~
+ASG  ASN -   35  633    T          Turn    -59.21    360.00      48.1      ~~~~
+ASG  GLY -   36  634    T          Turn    360.00    360.00      15.0      ~~~~
+ASG  LEU -   37  635    T          Turn    360.00    360.00      83.8      ~~~~
+ASG  SER -   38  636    T          Turn    360.00    360.00      52.5      ~~~~
+ASG  ALA -   39  637    T          Turn    360.00    360.00      55.9      ~~~~
+ASG  LEU -   40  638    T          Turn    360.00    360.00      71.2      ~~~~
+ASG  MET -   41  639    T          Turn    360.00    360.00     130.5      ~~~~
+ASG  VAL -   42  640    T          Turn    360.00    360.00      91.2      ~~~~
+ASG  ALA -   43  641    T          Turn    360.00    -18.26      97.8      ~~~~
+ASG  ASP -   44  642    T          Turn     33.91    360.00      54.1      ~~~~
+ASG  PHE -   45  643    T          Turn    360.00    360.00     192.1      ~~~~
+ASG  ARG -   46  644    T          Turn    360.00    360.00     178.3      ~~~~
+ASG  ALA -   47  645    T          Turn    360.00    360.00      68.9      ~~~~
+ASG  ALA -   48  646    T          Turn    360.00    360.00      70.8      ~~~~
+ASG  GLU -   49  647    T          Turn    360.00    360.00      69.1      ~~~~
+ASG  VAL -   50  648    T          Turn    360.00    360.00      30.5      ~~~~
+ASG  THR -   51  649    T          Turn    360.00    360.00      76.2      ~~~~
+ASG  LYS -   52  650    T          Turn    360.00    360.00     118.9      ~~~~
+ASG  LEU -   53  651    T          Turn    360.00     -0.08      44.7      ~~~~
+ASG  LEU -   54  652    T          Turn     -0.08     -0.08      98.2      ~~~~
+ASG  LEU -   55  653    T          Turn     -0.08    360.00      99.2      ~~~~
+ASG  ASP -   56  654    T          Turn    360.00    360.00      57.7      ~~~~
+ASG  HIS -   57  655    T          Turn    360.00    360.00     188.5      ~~~~
+ASG  GLY -   58  656    T          Turn    360.00    -15.59       2.6      ~~~~
+ASG  ALA -   59  657    T          Turn      5.23    -18.26      99.0      ~~~~
+ASG  ASP -   60  658    T          Turn     33.91    -91.59      47.5      ~~~~
+ASG  PRO -   61  659    T          Turn    108.05     84.20      48.1      ~~~~
+ASG  ASN -   62  660    T          Turn    153.88    360.00     104.4      ~~~~
+ASG  GLU -   63  661    T          Turn    360.00    -62.44     113.0      ~~~~
+ASG  ALA -   64  662    T          Turn    -94.57      5.13      37.7      ~~~~
+ASG  THR -   65  663    T          Turn      3.30    -27.60      51.5      ~~~~
+ASG  ASP -   66  664    T          Turn     -0.31    360.00      56.9      ~~~~
+ASG  GLN -   67  665    T          Turn    360.00    360.00      79.4      ~~~~
+ASG  GLY -   68  666    T          Turn    360.00   -138.41      34.3      ~~~~
+ASG  ILE -   69  667    T          Turn   -153.64   -103.28      67.3      ~~~~
+ASG  ASN -   70  668    T          Turn   -111.85    360.00      47.9      ~~~~
+ASG  ALA -   71  669    T          Turn    360.00    360.00      52.3      ~~~~
+ASG  ALA -   72  670    T          Turn    360.00    -19.10      20.8      ~~~~
+ASG  TYR -   73  671    T          Turn    134.21    360.00     242.6      ~~~~
+ASG  LEU -   74  672    T          Turn    360.00    360.00      50.9      ~~~~
+ASG  ALA -   75  673    T          Turn    360.00    360.00     102.6      ~~~~
+ASG  ALA -   76  674    T          Turn    360.00    360.00      60.1      ~~~~
+ASG  ALA -   77  675    T          Turn    360.00    360.00      16.6      ~~~~
+ASG  LEU -   78  676    T          Turn    360.00    360.00      74.4      ~~~~
+ASG  GLY -   79  677    T          Turn    360.00    360.00      36.9      ~~~~
+ASG  ASN -   80  678    T          Turn    360.00    360.00      80.3      ~~~~
+ASG  ALA -   81  679    T          Turn    360.00    360.00      75.0      ~~~~
+ASG  GLU -   82  680    T          Turn    360.00    -74.16      87.7      ~~~~
+ASG  THR -   83  681    T          Turn   -112.77    -57.48      95.4      ~~~~
+ASG  MET -   84  682    T          Turn    -92.45   -104.28     137.6      ~~~~
+ASG  LEU -   85  683    T          Turn   -117.15    360.00      88.4      ~~~~
+ASG  VAL -   86  684    T          Turn    360.00    -65.40      89.8      ~~~~
+ASG  LEU -   87  685    T          Turn   -117.88    360.00     141.9      ~~~~
+ASG  ILE -   88  686    T          Turn    360.00    360.00     145.7      ~~~~
+ASG  SER -   89  687    T          Turn    360.00    360.00     118.1      ~~~~
+ASG  LYS -   90  688    T          Turn    360.00    360.00     165.2      ~~~~
+ASG  GLY -   91  689    T          Turn    360.00    -15.59      27.1      ~~~~
+ASG  ALA -   92  690    T          Turn      5.23    -18.26      97.2      ~~~~
+ASG  ASP -   93  691    T          Turn     33.91    360.00      81.2      ~~~~
+ASG  ILE -   94  692    T          Turn    360.00    360.00      77.8      ~~~~
+ASG  THR -   95  693    T          Turn    360.00     -0.08      40.1      ~~~~
+ASG  THR -   96  694    T          Turn     -0.08   -164.52      66.9      ~~~~
+ASG  PRO -   97  695    T          Turn     86.09   -128.56      23.4      ~~~~
+ASG  THR -   98  696    T          Turn    101.18     -4.19      87.6      ~~~~
+ASG  SER -   99  697    T          Turn     -4.92    360.00      68.7      ~~~~
+ASG  LYS -  100  698    T          Turn    360.00    360.00     123.7      ~~~~
+ASG  GLY -  101  699    T          Turn    360.00    360.00      34.7      ~~~~
+ASG  GLU -  102  700    T          Turn    360.00    360.00      88.7      ~~~~
+ASG  LEU -  103  701    T          Turn    360.00     54.60      95.0      ~~~~
+ASG  PRO -  104  702    T          Turn   -165.72    -31.59      48.7      ~~~~
+ASG  ILE -  105  703    T          Turn    122.22    360.00      49.1      ~~~~
+ASG  MET -  106  704    T          Turn    360.00    360.00      93.5      ~~~~
+ASG  ALA -  107  705    T          Turn    360.00    360.00     103.4      ~~~~
+ASG  ALA -  108  706    T          Turn    360.00    -67.27     114.0      ~~~~
+ASG  VAL -  109  707    T          Turn    -78.69    -65.40      81.6      ~~~~
+ASG  LEU -  110  708    T          Turn   -117.88    -61.47      87.4      ~~~~
+ASG  ASN -  111  709    T          Turn    -23.69    360.00      67.5      ~~~~
+ASG  GLY -  112  710    T          Turn    360.00    360.00       4.2      ~~~~
+ASG  ASN -  113  711    T          Turn    360.00    -47.14      42.6      ~~~~
+ASG  LYS -  114  712    T          Turn   -117.25    360.00     120.7      ~~~~
+ASG  GLU -  115  713    T          Turn    360.00    360.00      52.1      ~~~~
+ASG  VAL -  116  714    T          Turn    360.00      0.08      33.5      ~~~~
+ASG  VAL -  117  715    T          Turn      0.08    360.00      22.0      ~~~~
+ASG  GLU -  118  716    T          Turn    360.00    360.00      74.1      ~~~~
+ASG  ILE -  119  717    T          Turn    360.00    -64.99      46.9      ~~~~
+ASG  LEU -  120  718    T          Turn    -91.61    360.00      81.2      ~~~~
+ASG  THR -  121  719    T          Turn    360.00    -26.84      60.9      ~~~~
+ASG  TYR -  122  720    T          Turn    115.37    360.00     187.2      ~~~~
+ASG  GLY -  123  721    T          Turn    360.00    -15.59      48.7      ~~~~
+ASG  ALA -  124  722    T          Turn      5.23    -18.26      86.6      ~~~~
+ASG  ASP -  125  723    T          Turn     33.91    360.00      29.7      ~~~~
+ASG  LEU -  126  724    T          Turn    360.00    360.00      49.1      ~~~~
+ASG  SER -  127  725    T          Turn    360.00    360.00      15.0      ~~~~
+ASG  GLN -  128  726    T          Turn    360.00    360.00     120.9      ~~~~
+ASG  LYS -  129  727    T          Turn    360.00    360.00     185.4      ~~~~
+ASG  GLY -  130  728    T          Turn    360.00    -15.59      17.0      ~~~~
+ASG  ALA -  131  729    T          Turn      5.23    360.00     109.0      ~~~~
+ASG  GLU -  132  730    T          Turn    360.00    360.00      71.1      ~~~~
+ASG  GLY -  133  731    T          Turn    360.00    360.00      15.4      ~~~~
+ASG  LEU -  134  732    T          Turn    360.00    360.00      51.7      ~~~~
+ASG  THR -  135  733    T          Turn    360.00   -164.52       7.2      ~~~~
+ASG  PRO -  136  734    T          Turn     86.09    360.00      49.7      ~~~~
+ASG  LYS -  137  735    T          Turn    360.00     -1.91      81.8      ~~~~
+ASG  GLN -  138  736    T          Turn     -3.56    360.00      93.4      ~~~~
+ASG  ILE -  139  737    T          Turn    360.00    360.00      97.6      ~~~~
+ASG  ALA -  140  738    T          Turn    360.00    360.00      69.6      ~~~~
+ASG  GLY -  141  739    T          Turn    360.00    360.00      53.9      ~~~~
+ASG  LYS -  142  740    T          Turn    360.00    360.00     208.8      ~~~~
+ASG  LEU -  143  741    T          Turn    360.00    360.00      61.3      ~~~~
+ASG  GLY -  144  742    T          Turn    360.00    360.00      47.5      ~~~~
+ASG  LEU -  145  743    T          Turn    360.00    360.00      85.8      ~~~~
+ASG  GLU -  146  744    T          Turn    360.00      0.08     135.6      ~~~~
+ASG  GLU -  147  745    T          Turn      0.08    360.00      62.7      ~~~~
+ASG  VAL -  148  746    T          Turn    360.00    -65.40      51.1      ~~~~
+ASG  LEU -  149  747    T          Turn   -117.88   -109.83      99.0      ~~~~
+ASG  LYS -  150  748    T          Turn   -139.17    360.00     142.1      ~~~~
+ASG  ILE -  151  749    T          Turn    360.00    -64.99      48.3      ~~~~
+ASG  LEU -  152  750    T          Turn    -91.61   -109.83      28.9      ~~~~
+ASG  LYS -  153  751    T          Turn   -139.17    360.00     158.1      ~~~~
+ASG  LYS -  154  752    T          Turn    360.00    360.00     101.2      ~~~~
+ASG  ALA -  155  753    T          Turn    360.00    360.00      43.1      ~~~~
+ASG  GLY -  156  754    C          Coil    360.00    360.00      68.1      ~~~~
