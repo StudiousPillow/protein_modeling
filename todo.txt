@@ -1,2 +1,0 @@
-- trouver structure + diff avec un outil plus sensible comme psi-blast, chercher dans PDB
-- mesurer le désordre isoprep? et psipred (site uk où on pourra aussi tester si transmembranaire)

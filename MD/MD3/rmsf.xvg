@@ -1,10 +1,10 @@
-# This file was created Sun Jan  5 20:18:10 2025
+# This file was created Mon Jan  6 03:25:24 2025
 # Created by:
 #       :-) GROMACS - gmx rmsf, 2026.0-dev-20241230-a711e0763b-unknown (-:
 # 
-# Executable:   /Users/nicolas/app/bin/../gromacs/build/bin/gmx
+# Executable:   /bigdisk/nick/app/bin/../source/gromacs/build/bin/gmx_mpi
 # Data prefix:  /usr/local/gromacs
-# Working dir:  /Users/nicolas/Documents/M2/protein_modeling/MD/MD3
+# Working dir:  /bigdisk/nick/Moi/etude/M2/structure2/protein_modeling/MD/MD3
 # Command line:
 #   gmx rmsf -s cg.pdb -f md_0_1_wrapped.xtc -o rmsf.xvg
 # gmx rmsf is part of G R O M A C S:

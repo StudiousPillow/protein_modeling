@@ -98,4 +98,8 @@ gmx hbond -s cg.pdb -f md_0_1_wrapped.xtc -num hb.xvg
 ## cross comparison RMSD
 gmx rms -s cg.pdb -f md_0_1.xtc -f2 ../MD2_2ns.2/md_0_1.xtc -o rmsd_cross.xvg
 
-## 
+## generate two files pdb first and last
+gmx trjconv -s npt.tpr -f md_0_1.xtc -o first_frame.pdb -dump 0
+gmx trjconv -s npt.tpr -f md_0_1.xtc -o last_frame.pdb -dump 2000
+
+gmx rmsf -s npt.tpr -f md_0_1.xtc -o rmsf_res.xvg -res

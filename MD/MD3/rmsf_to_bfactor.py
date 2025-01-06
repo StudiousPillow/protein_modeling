@@ -1,19 +1,24 @@
-# rmsf_to_bfactor.py
-rmsf_file = "rmsf.xvg"
-pdb_file = "average.pdb"
-output_pdb = "rmsf_colored.pdb"
+import sys
 
-# Read RMSF values
-with open(rmsf_file, "r") as f:
-    rmsf_values = [float(line.split()[1]) for line in f if not line.startswith(('@', '#'))]
+# Read RMSF values from rmsf.xvg
+with open('rmsf_res.xvg') as rmsf_file:
+    rmsf_values = [float(line.split()[1]) for line in rmsf_file if not line.startswith(('#', '@'))]
 
-# Update PDB file with RMSF as B-factor
-with open(pdb_file, "r") as pdb, open(output_pdb, "w") as out:
-    res_idx = 0
-    for line in pdb:
-        if line.startswith("ATOM"):
-            new_bfactor = f"{rmsf_values[res_idx]:.2f}"
-            out.write(f"{line[:60]}{new_bfactor:>6}{line[66:]}")
-            res_idx += 1
+# Read PDB file
+pdb_file = 'average_structure.pdb'
+with open(pdb_file) as pdb:
+    pdb_lines = pdb.readlines()
+
+# Write new PDB file with RMSF values as B-factors
+res_index = 0
+with open('rmsf_colored.pdb', 'w') as output:
+    for line in pdb_lines:
+        if line.startswith('ATOM'):
+            if res_index < len(rmsf_values):
+                new_line = f"{line[:60]}{rmsf_values[res_index]:6.2f}{line[66:]}"
+                res_index += 1
+            else:
+                new_line = f"{line[:60]}{0.00:6.2f}{line[66:]}"
+            output.write(new_line)
         else:
-            out.write(line)
+            output.write(line)
