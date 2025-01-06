@@ -1,0 +1,9 @@
+# GitHub syntax highlighting
+pixi.lock linguist-language=YAML linguist-generated=true
+MD/video/traj_video_md3-2.mkv filter=lfs diff=lfs merge=lfs -text
+MD/video/traj_video_mdall.mkv filter=lfs diff=lfs merge=lfs -text
+MD/video/traj_video_mdcplx.mkv filter=lfs diff=lfs merge=lfs -text
+MD/video/traj_video_md2-1.mkv filter=lfs diff=lfs merge=lfs -text
+MD/video/traj_video_md2-2.mkv filter=lfs diff=lfs merge=lfs -text
+MD/video/traj_video_md2_md3.mkv filter=lfs diff=lfs merge=lfs -text
+MD/video/traj_video_md3-1.mkv filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,16 @@
+Open 1bd8.pdb in pymol
+> remove resn hoh
+
+pdbfixer I-tasser.pdb --output receptor_raw.pdb
+pdbfixer 1bd8.pdb --output ligand_raw.pdb
+
+obabel receptor_raw.pdb -O receptor.pdb --addhydrogens --partialcharge gasteiger --ph 7.4
+obabel ligand_raw.pdb -O ligand.pdb --addhydrogens --partialcharge gasteiger --ph 7.4
+
+Use the python rosetta script to do minimisation and docking
+python pyro_docking.py
+
+docked_complex_flex_min : Final docking score: 602.3388997228128
+docked_complex_flex2_min : Final docking score: 617.4119111837451
+
+protein protein docking with rigid receptor and flexible ligand. 
