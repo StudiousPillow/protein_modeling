@@ -1,0 +1,41 @@
+; Run control parameters
+integrator = md                    ; MD integrator
+nsteps = 5000                       ; Number of steps (10 ps if dt = 0.002 ps)
+dt = 0.002                          ; Time step in ps (2 fs)
+
+; Output control
+nstxout = 500                       ; Save coordinates every 500 steps
+nstvout = 500                       ; Save velocities every 500 steps
+nstenergy = 1000                    ; Write energy to energy file every 1000 steps
+nstlog = 1000                       ; Write log file every 1000 steps
+energygrps = System                  ; Energy group to output
+
+; Neighbor searching
+nstlist = 20                       ; Update neighbor list every 20 steps
+rlist = 1.0                         ; Nonbonded interaction cutoff distance (1.0 nm)
+nstcomm = 100                        ; Frequency of center-of-mass motion removal
+
+; Electrostatics and nonbonded interactions
+coulombtype = PME                    ; Use PME for electrostatics
+rcoulomb = 0.25                       ; Electrostatic cutoff distance in nm
+vdwtype = cut-off                    ; Use cutoff for van der Waals interactions
+rvdw = 0.25                           ; vdW interaction cutoff distance in nm
+
+; Temperature coupling
+tcoupl = V-rescale                    ; Temperature coupling using V-rescale
+tc-grps = System                     ; Coupling group
+tau_t = 0.1                          ; Time constant for temperature coupling (in ps)
+ref_t = 300                           ; Reference temperature (in K)
+
+; Pressure coupling
+pcoupl = Parrinello-Rahman            ; Pressure coupling using Parrinello-Rahman
+pcoupltype = isotropic                ; Isotropic pressure coupling
+tau_p = 2.0                          ; Time constant for pressure coupling (in ps)
+ref_p = 1.0                          ; Reference pressure (in bar)
+compressibility = 4.5e-5              ; Compressibility (in bar^-1)
+
+; Periodic boundary conditions
+pbc = xyz                            ; 3D periodic boundary conditions
+
+; Special settings
+gen_vel = no                         ; No velocity generation for MD (we assume velocities are initialized)

@@ -1,0 +1,7 @@
+integrator  = steep       ; Steepest descent minimization
+nsteps      = 10000      ; Number of steps (50000 steps at 1 fs = 50 ps)
+emtol       = 1000       ; Force tolerance (kJ/mol/nm)
+emstep      = 0.01       ; Step size
+nstlist     = 1          ; Frequency of neighbor list update
+cutoff-scheme = Verlet
+pbc         = xyz        ; Periodic boundary conditions

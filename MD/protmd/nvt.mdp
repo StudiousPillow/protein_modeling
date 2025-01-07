@@ -1,0 +1,8 @@
+integrator = md             ; MD integration for time evolution
+nsteps     = 1000000          ; Number of steps
+dt         = 0.001          ; Time step (1 fs)
+tcoupl     = v-rescale      ; Thermostat to control temperature
+tc-grps    = system         ; Apply thermostat to the whole system
+tau_t      = 0.5            ; Temperature coupling time constant (ps)
+ref_t      = 300            ; Reference temperature (K)
+pbc        = xyz            ; Periodic boundary conditions

@@ -1,0 +1,13 @@
+; Energy minimization settings
+integrator    = steep           ; Steepest descent algorithm
+emtol         = 1000            ; Convergence criterion (force tolerance in kJ/mol/nm)
+emstep        = 0.01            ; Step size for the energy minimization
+nsteps        = 50000           ; Number of minimization steps
+nstlist       = 1               ; Frequency of updating neighbor list
+cutoff-scheme = Verlet          ; Neighbor searching scheme
+ns_type       = grid            ; Neighbor search method
+rlist         = 1.0             ; Cutoff distance for nonbonded interactions (in nm)
+coulombtype   = PME             ; PME for Coulomb interactions
+rcoulomb       = 1.0            ; Coulomb cutoff distance (in nm)
+rvdw          = 1.0             ; Van der Waals cutoff distance (in nm)
+pbc           = xyz             ; Periodic boundary conditions
